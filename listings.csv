@@ -1,0 +1,500 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+2015,Berlin-Mitte Value! Quiet courtyard/very central,2217,Ion,Mitte,Brunnenstr. Süd,52.53305,13.40394,Entire home/apt,53,90,144,2021-11-02,2.08,4,326,10,
+3176,Fabulous Flat in great Location,3718,Britta,Pankow,Prenzlauer Berg Südwest,52.53471,13.4181,Entire home/apt,90,92,147,2021-01-01,0.97,1,170,1,
+7071,BrightRoom with sunny greenview!,17391,BrightRoom,Pankow,Helmholtzplatz,52.54301,13.41534,Private room,33,1,293,2020-03-31,1.95,1,0,0,
+9991,Geourgeous flat - outstanding views,33852,Philipp,Pankow,Prenzlauer Berg Südwest,52.53269,13.41805,Entire home/apt,180,6,8,2020-01-04,0.10,1,0,0,03/Z/RA/003410-18
+14325,Apartment in Prenzlauer Berg,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54813,13.40366,Entire home/apt,70,95,26,2021-06-21,0.19,3,159,1,
+16644,In the Heart of Berlin - Kreuzberg,64696,Rene,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50312,13.43508,Entire home/apt,90,60,48,2017-12-14,0.34,2,230,0,
+17904,Beautiful Kreuzberg studio - 3 months minimum,68997,Matthias,Neukölln,Reuterstraße,52.49419,13.42166,Entire home/apt,44,92,297,2021-10-20,2.06,1,212,19,
+20858,Designer Loft in Berlin Mitte,71331,Marc,Pankow,Prenzlauer Berg Südwest,52.53711,13.40888,Entire home/apt,169,3,90,2021-11-17,0.80,1,161,4,Genehmigung BA Pankow 03/Z/ZA/002715-17 Genehigungsbescheid vom 16.05.2017
+21869,Studio in the Heart of Kreuzberg,64696,Rene,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.5046,13.43374,Entire home/apt,70,60,60,2016-06-05,0.44,2,199,0,
+22438,WOHNUNG IN BERLIN ★ MITTE,86159,Javier,Mitte,Brunnenstr. Süd,52.53408,13.38871,Entire home/apt,65,90,181,2020-11-30,1.39,1,170,0,
+22677,Prenzel garden with leafy terrace (quiet Guests),87357,Ramfis,Mitte,Brunnenstr. Süd,52.53355,13.40476,Entire home/apt,111,2,339,2021-12-05,2.49,1,252,30,01/Z/NA/004976-16
+23834,Apartment in the heart of Berlin,94918,Tanja,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49134,13.37975,Entire home/apt,65,185,99,2019-08-31,0.71,1,0,0,
+24569,Sunny & Wheelchair accessible,99662,Dominik,Pankow,Prenzlauer Berg Süd,52.52931,13.41999,Entire home/apt,100,5,22,2021-07-30,0.16,1,18,1,
+26543,Helmholtzplatz Bright&Spacious Apt.,112675,Terri,Pankow,Helmholtzplatz,52.54419,13.41956,Entire home/apt,208,3,188,2021-10-31,1.36,1,175,1,03/Z/RA/005604-20
+28156,Beautiful apartment in Prenzlauer Berg,55531,Chris + Oliver,Pankow,Prenzlauer Berg Nordwest,52.54804,13.40349,Entire home/apt,80,95,33,2021-05-30,0.24,3,141,1,
+29279,Quiet 2 rooms next Helmholtzplatz,54283,Marine,Pankow,Helmholtzplatz,52.54367,13.42431,Entire home/apt,80,92,77,2021-07-31,0.56,3,234,2,
+30295,PEACEFUL FLAT WITH VINTAGE TOUCH IN PRENZLAUERBERG,485838,Michele,Pankow,Helmholtzplatz,52.54596,13.42291,Entire home/apt,107,4,328,2021-12-05,2.39,4,330,26,"First name and Last name: Michele Fossi  (michelefossi@gmail.com) <br/> Contact address: Kastanienallee 10, DG rechts , 10435, Berlin, Germany <br/>Listing address: Ahlbeckerstr. 11A, VdH Rechts - Gewerbeeinheit, 10437, Berlin, Berlin"
+33043,Central Bright Bellevue Free Parking WIFI 4G,143180,Claudio&Irina,Mitte,Moabit Ost,52.52195,13.3559,Entire home/apt,62,3,213,2020-12-26,1.54,1,0,1,01/Z/ZA/005188-16
+33728,Kurfürstendamm-Apartment with Wifi from 15. March,145808,Veronika,Charlottenburg-Wilm.,Halensee,52.49884,13.30326,Entire home/apt,27,70,22,2018-03-10,0.16,3,169,0,
+35152,Private Room w/ own bath in Design Mitte Loft,151248,Flo,Mitte,Brunnenstr. Süd,52.5349,13.39857,Private room,80,2,25,2021-11-14,0.20,1,0,5,01/Z/AZ/009943-19
+37004,WONDERFUL ROOM for a bubble in Berlin Central,159734,Bernd,Tempelhof - Schöneberg,Schöneberg-Nord,52.49376,13.36408,Private room,37,10,26,2021-10-02,0.19,1,297,1,07/Z/AZ/005813-18
+37554,More central+calm it won´t get !!,161823,Iván,Mitte,Regierungsviertel,52.50906,13.39374,Entire home/apt,19,5,8,2018-06-04,0.12,1,0,0,
+37836,Weekend in Berlin Party Center - II,272316,Desiree,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.4987,13.44041,Private room,40,2,206,2021-12-06,1.48,2,83,3,02/Z/AZ/014158-21
+38074,"In the heart of Prenzlauer Berg, 3 months min stay",163384,Alan & Kasia StayBearlin,Pankow,Prenzlauer Berg Süd,52.53713,13.42473,Entire home/apt,99,92,107,2021-11-20,0.78,10,261,1,"First name and Last name: Alan Connaughton <br/> Contact address: Grellstraße 34, 10409, Berlin, Germany <br/>Listing address: Jablonskistraße 24, 10405, Berlin, Deutschland"
+40600,room-artist loft berlin kreuzberg,174970,Judith,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48968,13.41993,Private room,53,3,50,2016-09-26,0.42,2,0,0,
+41217,Beautiful room,179110,Bn,Pankow,Prenzlauer Berg Südwest,52.5378,13.41287,Private room,43,15,70,2017-10-08,0.51,1,0,0,
+41306,"Schöner Altbau, 6 min zum Alexanderpatz.",179872,Sebastian,Pankow,Prenzlauer Berg Süd,52.53163,13.42152,Private room,49,1,1,2014-09-26,0.01,1,0,0,
+42487,Weekend in Berlin Party Center - I,272316,Desiree,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49661,13.44038,Private room,39,1,17,2021-12-07,0.14,2,58,1,02/Z/AZ/014158-21
+42809,The Berlin Artist Apartment.,186851,Tina,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51099,13.45642,Entire home/apt,119,4,179,2021-12-15,1.35,1,285,17,02/Z/RA/012660-20
+44423,Lovely accommodation in Berlin,194957,Robert,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50943,13.45458,Private room,56,82,105,2019-01-11,0.77,1,0,0,02/Z/AZ/008330-18
+47938,Lovely 2 BR flat in Prenzlauer Berg,218479,Laura,Pankow,Prenzlauer Berg Südwest,52.53197,13.41994,Entire home/apt,169,5,40,2020-07-20,0.29,1,0,0,03/Z/RA/003442-18
+55853,Hauptstadt-Domizil,264072,Britta,Charlottenburg-Wilm.,Neue Kantstraße,52.50469,13.29409,Entire home/apt,55,92,15,2019-12-31,0.14,1,348,0,
+57049,130 sqm with a view on Mauer Park,54283,Marine,Pankow,Prenzlauer Berg Nordwest,52.54758,13.40632,Entire home/apt,250,3,99,2021-10-20,0.74,3,221,6,03/Z/RA/003544-18
+58041,Apt. in a historic ambience+Wifi from,145808,Veronika,Mitte,Brunnenstr. Süd,52.52826,13.39135,Entire home/apt,74,90,73,2018-11-16,0.61,3,31,0,
+58780,light quiet beautiful 4 room flat,281614,Katja,Pankow,Prenzlauer Berg Süd,52.53572,13.42739,Entire home/apt,118,5,46,2021-10-22,0.37,2,194,1,03/Z/RA/003443-18
+64014,"Rooftop apt w/ a view, 2 bedrooms/bathrooms, sauna",312896,Stephan,Mitte,Brunnenstr. Nord,52.54059,13.40301,Entire home/apt,163,3,13,2021-11-22,0.10,1,351,2,01/Z/RA/013285-21
+64245,Room w/ balcony and private bathroom in nice area,312373,Christian,Pankow,Prenzlauer Berg Nordwest,52.54792,13.40465,Private room,60,2,59,2021-10-25,0.46,2,83,3,
+64590,Great apt. w. balcony directly on the canal!,315681,Mirjam,Neukölln,Reuterstraße,52.49337,13.42555,Entire home/apt,118,6,48,2021-08-30,0.39,1,9,3,08/Z/RA/007798-19
+68448,Quiet studio in Prenzlauer Berg near Mauerpark,163384,Alan & Kasia StayBearlin,Pankow,Prenzlauer Berg Nord,52.55004,13.41518,Entire home/apt,66,3,316,2021-12-13,2.46,10,361,16,"Legal entity name and Legal form: StayBearlin <br/>Legal representatives or Trade register number: Alan Connaughton <br/> Entity address: Grellstraße 34, 10409, Berlin, Deutschland <br/>Listing address: Wichertstraße 68, Seitenflügel links, EG, 10439, Berlin, Deutschland"
+72079,"Italian Design at Kudamm ,WiFi DSL free",261488,P. Charlotte,Charlottenburg-Wilm.,Kantstraße,52.5078,13.31867,Entire home/apt,83,3,64,2021-11-08,0.61,1,303,4,
+74614,City apartment in Prenzlauer Berg,393047,Fatena,Pankow,Prenzlauer Berg Südwest,52.53816,13.41065,Entire home/apt,220,21,76,2020-02-29,0.66,1,360,0,
+80843,Berlin City Studio Apt.,437628,Oliver,Charlottenburg-Wilm.,Schmargendorf,52.48074,13.28903,Entire home/apt,49,2,124,2020-11-19,0.95,1,0,0,04/Z/ZA/004240-16
+81049,Lux.2BR Apart.Berlin Mitte -Licensed!,249501,Elfie And  Paul,Mitte,Regierungsviertel,52.52142,13.38983,Entire home/apt,145,4,44,2021-10-16,0.34,1,237,1,01/Z/ZA/006052-16
+81081,Beautiful Prenzlauer Berg Apt,425899,Bernd+Katja :-),Pankow,Prenzlauer Berg Nord,52.55064,13.41466,Entire home/apt,66,4,330,2021-12-02,2.54,1,43,25,03/Z/ZA/002447-16
+83614,Spacious Prenzlauer Berg Apartment in Quiet Street,456085,Louis,Pankow,Helmholtzplatz,52.54677,13.41894,Entire home/apt,197,1,325,2021-11-16,2.49,2,339,20,03/Z/RA/003546-18
+85560,Apartment 1 in Berlin,451311,Ruth,Mitte,Alexanderplatz,52.53036,13.38137,Entire home/apt,79,3,98,2021-12-08,1.21,2,306,5,
+86090,spacious and cozy living in PrenzlBerg,472567,Alexandra,Pankow,Prenzlauer Berg Nord,52.54715,13.42657,Entire home/apt,103,3,152,2021-11-29,1.19,4,311,18,03/Z/AZ/004499-19
+89102,Bright loft in the Kastanienallee,485838,Michele,Pankow,Prenzlauer Berg Südwest,52.54048,13.41087,Entire home/apt,106,4,62,2021-09-14,0.48,4,11,1,03/Z/RA/006066-21
+102882,STORAGE APARTMENT URBAN,86173,Sebastian,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48924,13.42371,Entire home/apt,521,3,112,2017-04-16,0.87,2,0,0,"Legal entity name and Legal form: storage apartments UG <br/>Legal representatives or Trade register number: sebastian poetter <br/> Entity address: sonnenallee 63, 12045, berlin, deutschland  <br/>Listing address: sonnenallee 63, fabrikgebäude, 12045, berlin, deutschland "
+103644,2 br Apt. at Kurfürstendamm with Wifi from July on,145808,Veronika,Charlottenburg-Wilm.,Halensee,52.49857,13.30332,Entire home/apt,40,70,32,2016-04-24,0.25,3,169,0,
+111579,IN THE CENTER OF BERLIN.....,570951,S. Kjel,Mitte,Alexanderplatz,52.5272,13.40952,Entire home/apt,75,5,114,2016-06-05,0.92,1,0,0,
+115576,Bed and Garden,584750,Axel,Pankow,Blankenfelde/Niederschönhausen,52.58178,13.3962,Entire home/apt,75,2,14,2021-10-23,0.14,1,345,6,03/Z/ZA/001284-16
+117649,F43 - your base for Berlin,594164,Ralph&Maria,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49989,13.4448,Entire home/apt,68,92,85,2020-04-30,0.66,1,231,0,
+127708,Design Jewel in the midst of MITTE!,632174,Stéphanie,Mitte,Alexanderplatz,52.52536,13.40488,Entire home/apt,90,2,559,2021-11-28,4.54,5,35,11,01/Z/AZ/008752-18
+128827,Gorgeous Home in the Heart of East Berlin,632971,Kai,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50894,13.46075,Entire home/apt,59,7,22,2021-09-26,0.27,1,2,1,TBD
+135097,Near KaDeWe & Kurfürstendamm,662534,Bernd,Tempelhof - Schöneberg,Schöneberg-Nord,52.49944,13.34685,Entire home/apt,84,1,279,2021-11-09,2.20,1,263,24,07/Z/ZE/003727-17
+143605,""" Berlin Fuffa's 40m2  apartment """,696492,Gaston & Elena,Neukölln,Schillerpromenade,52.47649,13.42541,Entire home/apt,40,60,67,2021-10-02,0.53,1,102,2,08/Z/ZA/004007-16
+145249,Private Wing of Penthouse - Terrace,1853661,Kirk,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51604,13.46059,Private room,65,2,142,2021-11-14,1.25,1,13,6,
+147339,LOVELY APARTMENT - CENTRAL - QUIET,712073,Gerhard,Tempelhof - Schöneberg,Schöneberg-Süd,52.48033,13.3609,Entire home/apt,60,3,226,2021-12-13,1.80,1,236,28,07/Z/RA/005709-18
+147946,1-room-flat in Prenzlauer Berg/WIFI,712973,Jan,Pankow,Prenzlauer Berg Nordwest,52.54705,13.40917,Entire home/apt,28,183,39,2017-02-12,0.31,3,17,0,
+151249,"Quiet, Terrasse, cats, baby equiped",728298,Ju,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.49681,13.41758,Entire home/apt,102,10,19,2021-09-12,0.25,1,364,2,
+156010,TWO ROOM APARTMENT ALEXANDERPLATZ,750165,Angela,Mitte,Alexanderplatz,52.51727,13.42393,Entire home/apt,36,90,96,2018-12-20,0.76,1,107,0,
+157839,1 room in typical berlin-style apt. for dog lovers,671536,Nicole,Mitte,Moabit West,52.5314,13.34158,Private room,35,1,319,2021-10-23,2.60,1,294,9,01/Z/AZ/013165-21
+159454,"Bright, Charming and Modern Altbau",499725,Prasad,Charlottenburg-Wilm.,Wiesbadener Straße,52.47844,13.30973,Entire home/apt,161,2,77,2020-09-30,0.68,1,77,0,04/Z/ZE/003034-16
+162111,"Sunny, cosy room + holland bicycle!",775103,Verena,Neukölln,Rixdorf,52.47705,13.44574,Private room,42,5,57,2021-10-24,0.46,1,70,6,08/Z/AZ/007151-19
+163411,Ample parkside apartment Kreuzberg,779213,Jutta,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49919,13.43648,Entire home/apt,110,5,24,2021-10-24,0.20,1,38,4,02/Z/RA/008798-18
+164475,Sunny Room in Beautiful Apartment in Kreuzberg,784423,Patrick,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50266,13.43547,Private room,50,7,15,2021-12-10,0.16,2,80,5,
+168615,STAYINTOWN - Apartment in Berlin,803717,Dirk,Pankow,Blankenburg/Heinersdorf/Märchenland,52.58045,13.44398,Entire home/apt,49,2,9,2021-09-05,0.08,1,337,2,03/Z/AZ/004644-19
+170652,2-room apartment. Mauerpark TOP!,814026,Frank,Mitte,Brunnenstr. Nord,52.54533,13.39887,Private room,50,5,7,2019-10-01,0.06,1,362,0,
+173153,Beautiful flat 95m² in Berlin Mitte,826546,Wolfgang,Mitte,Alexanderplatz,52.52889,13.40726,Entire home/apt,80,2,33,2017-10-30,0.26,1,0,0,
+174391,BERLIN The most central!,833209,Julija,Mitte,Brunnenstr. Süd,52.52959,13.39763,Private room,42,1,1,2016-05-06,0.01,1,0,0,
+174547,Berlin City Apartment 1with WiFi,833995,Ilona,Mitte,Alexanderplatz,52.51107,13.41645,Entire home/apt,103,90,31,2016-10-02,0.25,4,0,0,
+174560,"2 apartment in Berlin Center, WiFi",833995,Ilona,Mitte,Alexanderplatz,52.51112,13.41596,Entire home/apt,78,60,56,2016-10-01,0.48,4,0,0,
+174576,Berlin City Suite 3 mit W-Lan,833995,Ilona,Mitte,Alexanderplatz,52.51101,13.41584,Entire home/apt,103,60,41,2016-10-02,0.34,4,0,0,
+174579,Berlin City Studio 4 mit W-Lan,833995,Ilona,Mitte,Alexanderplatz,52.50898,13.41535,Entire home/apt,78,60,81,2016-09-23,0.67,4,0,0,
+175667,"calm, sunny and central apartment",839532,Christina,Tempelhof - Schöneberg,Schöneberg-Süd,52.49037,13.34143,Entire home/apt,39,180,8,2017-01-11,0.07,1,152,0,
+176342,11C Landmark/Checkpoint Charlie/120m2/2BATH/3BR,843326,Nino,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50254,13.39134,Entire home/apt,235,3,56,2021-11-21,0.58,3,310,4,02/Z/NA/002627-16
+176355,11A Landmark/Checkpoint Charlie/110m2/2BATH/2BR,843326,Nino,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50254,13.39134,Entire home/apt,249,3,39,2021-11-10,0.32,3,355,9,02/Z/NA/002625-16
+176396,Quiet room direct to metro station,843558,Christine,Reinickendorf,Ost 2,52.57217,13.35152,Private room,21,1,11,2018-10-24,0.18,1,0,0,
+176852,Big & sunny apartment in Kreuzberg,845790,Aaike,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49283,13.43872,Entire home/apt,70,3,1,2015-09-23,0.01,1,138,0,
+178347,Design Apartment Berlin Neukölln,853446,Florian,Neukölln,Reuterstraße,52.48743,13.42896,Entire home/apt,76,2,71,2016-04-17,0.57,1,0,0,
+179102,"registered, legal hughe penthouse for 1-2 families",857327,Alke,Pankow,Pankow Zentrum,52.57051,13.39872,Entire home/apt,200,2,140,2021-06-05,1.16,1,304,1,"First name and Last name: Alke Matzat <br/> Contact address: Wilhelm Kuhr Str 5, 13187, Berlin, Berlin <br/>Listing address: Wilhelm Kuhr Str 5, 13186, Berlin, Berlin"
+180440,CITY STUDIO WEST@ Kurfürstendamm(monthly discount),864399,Roland & Sam,Charlottenburg-Wilm.,Neue Kantstraße,52.499,13.30171,Entire home/apt,43,92,26,2021-10-02,0.23,1,81,3,
+183988,Luxury Ku'damm Studio +  Bikes 4you,882801,Minel,Charlottenburg-Wilm.,Neue Kantstraße,52.50001,13.30349,Entire home/apt,84,2,466,2021-10-24,3.85,1,307,20,04/Z/ZA/004232-16
+185960,bright and large furnished room,893191,Juliane,Neukölln,Reuterstraße,52.48378,13.43379,Private room,29,7,16,2019-11-05,0.13,1,301,0,
+186663,Apartment Berlin TW Mexikoplatz,897302,Paul,Steglitz - Zehlendorf,Zehlendorf  Nord,52.4343,13.23037,Entire home/apt,90,122,15,2016-05-16,0.13,4,170,0,
+186851,"CasaKaiser, 2 room apartment",898345,Susanne,Tempelhof - Schöneberg,Schöneberg-Nord,52.49281,13.34951,Entire home/apt,33,92,55,2021-06-04,0.47,1,175,1,
+188922,Stay in Prenzlauerberg Berlin !,910884,Kristian,Pankow,Prenzlauer Berg Südwest,52.53243,13.41645,Entire home/apt,45,28,14,2014-08-28,0.11,1,0,0,
+189288,Townhouse Altenescher Weg,907038,Katarina-Susanne,Pankow,Prenzlauer Berg Ost,52.53822,13.45771,Entire home/apt,105,3,89,2021-08-07,0.76,1,262,1,
+189596,Mitte Miniloft apartment w. terrace,914711,Jon,Mitte,Brunnenstr. Süd,52.53008,13.39961,Entire home/apt,80,4,79,2016-05-06,0.63,1,0,0,
+190448,Modernes Studioapartment Berlin,920085,Ursula,Neukölln,Buckow Nord,52.43973,13.46044,Entire home/apt,52,3,28,2021-12-13,0.24,2,179,4,"First name and Last name: ursula Burde <br/> Contact address: Trappenpfad 35, 12351, Berlin, Berlin <br/>Listing address: Trappenpfad 35, 12351, Berlin, Berlin"
+191023,2-Room-Apartment in Berlin-Mitte,923408,Anne,Mitte,Alexanderplatz,52.51398,13.40711,Private room,55,1,40,2018-08-16,0.44,1,0,0,
+192050,Perfect for 5 + WLAN near (URL HIDDEN),929861,Mandy,Pankow,Pankow Süd,52.57243,13.42076,Entire home/apt,48,183,30,2020-09-30,0.25,2,74,0,
+192499,Franks kleines Museum,868282,Frank,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49188,13.42081,Private room,38,2,534,2021-11-29,4.24,1,80,32,"First name and Last name: Frank Siegfried Schoppmeier <br/> Contact address: Schönleinstraße 33, 10967, Berlin, Berlin <br/>Listing address: Schönleinstraße 33, 10967, Berlin, Berlin"
+193601,"Well located, cozy 2 rooms apartment, all close by",939230,Nana M,Pankow,Pankow Süd,52.55527,13.42104,Entire home/apt,75,3,0,,,1,0,0,
+194124,Luxury Property,913825,Loui,Charlottenburg-Wilm.,Halensee,52.49787,13.29706,Entire home/apt,74,92,3,2017-07-16,0.05,2,358,0,
+194374,Cottage in the city with garden,943996,Monika,Lichtenberg,Karlshorst,52.4766,13.50838,Entire home/apt,65,3,51,2021-11-22,0.42,3,249,5,11/Z/ZE/001087-16
+194465,Beautiful Loft-Studio with garden,944530,Christian And Verónica,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Nord,52.52023,13.44703,Entire home/apt,75,3,197,2021-11-19,1.59,1,141,15,02/Z/AZ/008845-18
+195413,Residential floor space in Mexicopl,897302,Paul,Steglitz - Zehlendorf,Zehlendorf  Nord,52.43399,13.23025,Entire home/apt,230,183,9,2016-07-10,0.08,4,291,0,
+197291,"App. w garden, firepl. a. whirlpool",1311026,Volker,Pankow,Blankenburg/Heinersdorf/Märchenland,52.58042,13.44493,Entire home/apt,119,7,59,2021-11-18,0.47,1,351,5,
+197850,Central Location Prenzlauer Berg,964971,Tanja,Pankow,Prenzlauer Berg Südwest,52.5387,13.41346,Entire home/apt,89,3,247,2020-01-01,1.98,1,0,0,
+198239,Fanstastic Studio Loft in Kreuzberg,868242,Happy Vegan,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50301,13.41506,Entire home/apt,76,3,108,2021-10-04,1.04,1,0,4,
+198584,"Oriental Style Room, Kudamm / Zoo",969532,Wendy,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49713,13.32525,Private room,42,7,13,2020-02-16,0.16,2,279,0,04/Z/AZ/008076-18
+200125,TOP apartment in art nouveau villa,977942,Rainer,Steglitz - Zehlendorf,Zehlendorf  Nord,52.43704,13.22343,Entire home/apt,89,60,0,,,1,365,0,Wohn 14 - 06/Z/NA/001878-16
+205296,4* apartment in quiet south Berlin,1009105,Gisela,Neukölln,Rudow,52.41363,13.50172,Entire home/apt,100,5,3,2021-08-30,0.11,1,358,2,08/Z/NA/004045-16
+207740,Schicke Garten-Maisonette in Kreuzberg,1022663,Vanessa,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50035,13.43736,Entire home/apt,195,7,12,2019-07-20,0.23,1,0,0,02/Z/RA/008970-18
+208495,CENTRAL VINTAGE-MODERN FLAT,965569,Coco,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51399,13.46324,Entire home/apt,150,2,0,,,1,0,0,
+209233,Sunny Apt near Nollendorfplatz,1328204,Jairo,Tempelhof - Schöneberg,Schöneberg-Nord,52.49773,13.35007,Entire home/apt,25,2,2,2018-03-30,0.03,1,41,0,
+210734,VERY CENTRAL AND COSY,1039350,Gosia,Mitte,Moabit West,52.52183,13.33318,Entire home/apt,175,3,314,2020-09-07,2.52,1,0,0,01/Z/ZA/005181-16
+212348,3 Zimmer mit Balkon im schönen Friedrichshain,1095251,Nadin,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51012,13.46212,Entire home/apt,166,2,8,2021-11-30,0.29,1,16,4,
+212470,furnished room in beautiful old app,1095682,Philipp,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49757,13.38215,Private room,40,5,5,2019-04-21,0.12,1,0,0,
+214491,"enchanting room in the centre,",1107206,Lalita,Mitte,Alexanderplatz,52.52109,13.38025,Private room,35,3,217,2021-09-27,1.77,1,260,7,
+214518,Chimaysaberlin B&B Front Double Bed,156897,Helen,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.5189,13.3009,Private room,38,1,32,2021-11-28,0.28,1,348,10,"First name and Last name: Helen Wong <br/> Contact address: Lohmeyerstr. 25, 10587, Berlin, Germany <br/>Listing address: Lohmeyerstr. 25, 10587, Berlin, Germany"
+220445,Apt. Near Charlottenburg Palace,1142834,Detlef,Charlottenburg-Wilm.,Mierendorffplatz,52.52545,13.29847,Entire home/apt,45,30,27,2021-07-29,0.26,1,213,2,04/Z/ZA/005063-16
+221015,clean calm cosy central Berlin Wedding apartment,1146238,Arzu & Tom,Mitte,Wedding Zentrum,52.54223,13.35284,Entire home/apt,74,4,539,2021-12-06,4.34,2,37,17,01/Z/AZ/013215-21
+222784,"Quiet-central-balcony-WiFi, (min 30 days)",1156924,Kelly,Mitte,Moabit West,52.52875,13.34062,Entire home/apt,47,10,208,2021-12-01,1.71,1,199,7,
+223622,1 bedroom in Berlin Friedrichshain,913422,Kathrin,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.51495,13.44469,Entire home/apt,45,2,6,2017-01-02,0.06,1,0,0,
+229099,Nice room near airport Berlin BER,1196119,Hannes,Treptow - Köpenick,Altglienicke,52.40484,13.53339,Private room,35,1,281,2021-12-16,2.34,1,78,24,09/Z/AZ/001991-19
+229348,Excl. Studio A Mitte/Hansaviertel,1195177,Annika,Mitte,Moabit Ost,52.5197,13.34206,Entire home/apt,79,5,91,2020-04-30,0.74,2,310,0,01/Z/NA/004723-16
+229363,Excl. Studio B Mitte/Hansaviertel,1195177,Annika,Mitte,Moabit Ost,52.52265,13.3419,Entire home/apt,79,5,72,2021-10-16,0.65,2,260,9,01/Z/NA/004722-16
+229776,Cosy room in Mitte / Rosenthaler Platz,956350,Arne,Mitte,Alexanderplatz,52.52861,13.40527,Private room,44,3,177,2021-10-04,1.42,1,251,8,01/Z/AZ/011800-20
+230411,Wonderful Room in Hip Kreuzberg!!,1204085,Felix,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49802,13.4409,Private room,40,3,5,2021-08-07,0.04,1,0,1,
+230611,4 bedroom holiday house Berlin,1205340,Christine,Tempelhof - Schöneberg,Lichtenrade,52.39095,13.39185,Entire home/apt,80,92,7,2021-11-30,0.06,1,64,1,
+231598,Apartment Berlin,1210839,Maria Teresa,Tempelhof - Schöneberg,Schöneberg-Nord,52.49132,13.35102,Entire home/apt,44,180,62,2018-09-16,0.52,1,277,0,
+233083,2-bed-loft-dwelling designers flat,1219893,Katharina,Charlottenburg-Wilm.,Neue Kantstraße,52.50587,13.29551,Entire home/apt,98,10,39,2021-01-31,0.32,1,169,1,
+233453,Pretty room in Neukölln/Sonnenallee,1221935,Anne,Neukölln,Reuterstraße,52.48342,13.43774,Private room,32,2,30,2013-11-20,0.25,1,357,0,
+233770,Holiday apartment in Berlin's Green,1224097,Bernhard,Marzahn - Hellersdorf,Mahlsdorf,52.47798,13.60628,Entire home/apt,59,3,41,2021-12-11,0.43,1,234,6,
+236509,"Berlin City Center, Great Vista",1240004,Georg,Mitte,Alexanderplatz,52.51551,13.418,Entire home/apt,82,120,40,2020-07-31,0.32,2,169,0,
+237670,Apartment Burde 2,920085,Ursula,Neukölln,Buckow Nord,52.44127,13.46116,Entire home/apt,45,3,27,2021-12-14,0.36,2,287,10,"First name and Last name: Ursula Burde <br/> Contact address: Trappenpfad 35, 12351, Berlin, Berlin <br/>Listing address: Trappenpfad 35, 12351, Berlin, Berlin"
+238396,"Within the city, calm and leafy",1250154,Henrik,Pankow,Prenzlauer Berg Südwest,52.53218,13.41571,Entire home/apt,51,3,508,2021-12-09,4.13,2,59,23,
+239139,"Central, Berlin Mitte,  2room, furnished, balcony",1254352,Jana,Mitte,Brunnenstr. Süd,52.5362,13.39772,Entire home/apt,47,92,102,2019-11-23,0.83,1,21,0,
+240169,"Berlin, Neukölln, Room B",1259589,Alexine,Neukölln,Neuköllner Mitte/Zentrum,52.47751,13.43739,Private room,22,3,147,2018-11-11,2.05,2,0,0,
+242794,Elegant renovated apartment 72 m2,1274606,Mario,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51367,13.45527,Entire home/apt,120,4,72,2021-09-30,0.61,1,140,6,02/Z/ZA/005795-17
+242908,Holiday Apartment in Berlin Wannsee with balcony,1275359,Henning,Steglitz - Zehlendorf,Zehlendorf  Südwest,52.41643,13.16445,Entire home/apt,104,5,0,,,2,282,0,"First name and Last name: Vermietung Wulff / Stephan GbR (Negativ Attest liegt vor) <br/> Contact address: Bismarckstrasse 35, 14109, Berlin, Deutschland <br/>Listing address: Bismarckstrasse 35, 14109, Berlin, Deutschland"
+242978,Exclusive one-bedroom apartment,1275576,Thomas,Mitte,Moabit West,52.52826,13.33044,Entire home/apt,47,2,132,2021-12-15,1.21,6,297,10,01/Z/NA/004607-16
+243057,"rooftop-apartement ""Blueberry Hill""  Berlin center",1275795,Arne & Ute,Mitte,Moabit West,52.53094,13.33453,Entire home/apt,190,2,38,2021-11-18,0.47,1,351,3,01/Z/AZ/013210-21
+243063,Holiday apartment in Berlin Mitte,1275846,Anna,Mitte,Alexanderplatz,52.52779,13.39108,Entire home/apt,101,1,293,2021-12-05,2.54,2,139,20,01/Z/NA/004920-16
+243081,"Living with style, apartment 2",1275846,Anna,Mitte,Brunnenstr. Süd,52.52983,13.39275,Entire home/apt,100,1,234,2021-11-22,2.00,2,142,16,01/Z/NA/004921-16
+243238,Blue Jewel in Green Borough,1276585,Katharina,Treptow - Köpenick,Johannisthal,52.44612,13.49829,Entire home/apt,68,2,131,2021-11-28,1.58,1,352,27,09/Z/RA/001624-18
+245744,Apartment in central Berlin,1289259,Martina,Mitte,Regierungsviertel,52.52024,13.3907,Entire home/apt,153,4,131,2021-11-14,1.09,1,319,5,01/Z/AF/001215-14
+245781,1-room FewWo near Alexanderplatz,1289393,Hille,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Nord,52.52606,13.42294,Entire home/apt,70,2,127,2020-02-23,1.06,3,260,0,02/Z/ZA/001824-15
+245809,2-bedroom apartment Prenzlauer Berg,1289393,Hille,Pankow,Prenzlauer Berg Nord,52.54361,13.44016,Entire home/apt,90,4,52,2019-11-24,0.45,3,319,0,03/Z/ZA/000976-15
+245827,2-bedroom apartment Gendarmenmarkt,1289393,Hille,Mitte,Regierungsviertel,52.50974,13.39971,Entire home/apt,93,30,123,2020-02-19,1.11,3,362,0,01/Z/NA/006511-17
+245991,World stroller's club 2,1290112,Wolfhard,Reinickendorf,West 2,52.58384,13.23087,Entire home/apt,25,30,9,2021-06-30,0.09,2,0,1,AF/000106-14
+246007,World stroller's club 1,1290112,Wolfhard,Reinickendorf,West 2,52.58383,13.22954,Entire home/apt,21,30,6,2017-02-01,0.05,2,47,0,AF/000106-14
+248375,Culture and shopping,1301421,Alexander,Charlottenburg-Wilm.,Kantstraße,52.50819,13.31214,Private room,66,1,17,2021-08-07,0.15,3,69,1,
+250007,Exotic holiday apartment in Berlin,1310272,Jörg,Tempelhof - Schöneberg,Schöneberg-Nord,52.49512,13.35251,Entire home/apt,59,2,197,2021-12-15,1.72,1,208,22,07/Z/ZE/004430-17
+250015,Business Apartment am KaDeWe,1310277,Claudia,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49735,13.33384,Entire home/apt,70,63,8,2015-11-01,0.09,3,260,0,
+250023,Family- Apartment am KaDeWe 2,1310277,Claudia,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49774,13.33644,Entire home/apt,50,22,49,2021-09-21,0.42,3,168,1,
+250030,Quiet city centre Studio Apartment,1310277,Claudia,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49806,13.33387,Entire home/apt,45,90,8,2021-08-05,0.07,3,262,1,
+250121,Cosy single room,1310755,Joe,Pankow,Prenzlauer Berg Südwest,52.52978,13.40657,Private room,54,3,7,2019-06-09,0.06,4,365,0,"First name and Last name: joe völter <br/> Contact address: anklamerstr.51, 10115, berlin, deutschland <br/>Listing address: lottumstr.20 pension mädchenkammer, 10119, berlin, deutschland"
+250138,Nice double room,1310755,Joe,Pankow,Prenzlauer Berg Südwest,52.53144,13.40629,Private room,63,3,13,2021-12-13,0.11,4,354,5,
+250171,Great Double bedroom,1310755,Joe,Pankow,Prenzlauer Berg Südwest,52.52949,13.4067,Private room,60,3,11,2021-12-08,0.10,4,365,1,
+250253,Apartment: Luise in Berlin,1311309,Ute,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.51792,13.30729,Entire home/apt,102,3,41,2021-11-28,0.45,4,350,7,04/Z/AF/000663-14
+250376,Enchanting 142m²(1530 ft²)  Loft/Room in F'Hain,1312190,Davide,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51247,13.45385,Private room,200,1,102,2020-09-26,0.84,2,173,0,02/Z/RA/012757-20
+250684,Lovely four bedroom,1310755,Joe,Pankow,Prenzlauer Berg Südwest,52.52984,13.40623,Private room,94,3,28,2019-09-09,0.25,4,365,0,
+250687,Apollo Apartments 1,1310866,Ashraf,Tempelhof - Schöneberg,Schöneberg-Süd,52.48471,13.35982,Entire home/apt,60,3,53,2021-11-29,0.46,2,4,14,07/Z/ZA/001795-16
+250704,Holiday Apartment with Garden,1314462,Otto,Tempelhof - Schöneberg,Marienfelde,52.42191,13.37495,Entire home/apt,101,5,34,2021-11-14,0.36,1,353,3,07/Z/ZA/000980-15
+250707,Apartment: Friederike in Berlin,1311309,Ute,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.51792,13.30729,Entire home/apt,62,3,12,2021-11-30,0.12,4,344,2,04/Z/AF/000662-14
+250729,Apartment: Grazer Gärten in Berlin,1311309,Ute,Tempelhof - Schöneberg,Friedenau,52.47013,13.34851,Entire home/apt,88,3,12,2021-08-02,0.21,4,329,3,07/Z/ZA/002442-16
+250753,Apartment: Großer Kurfürst,1311309,Ute,Mitte,Tiergarten Süd,52.49953,13.36546,Entire home/apt,102,3,30,2021-11-29,0.62,4,336,9,01/Z/NA/003813-15
+250871,Big 1-room-apartment!,386940,Elisabeth,Tempelhof - Schöneberg,Schöneberg-Süd,52.48538,13.34681,Entire home/apt,67,5,17,2021-11-30,0.19,2,361,3,07/7/NA/001616-16
+251398,Modern Room in a nice Environment,1318500,Renate,Spandau,Heerstraße Nord,52.51432,13.17765,Private room,40,1,54,2021-08-22,0.47,1,107,4,05/Z/AZ/007195-19
+252967,Pension am Traveplatz Zimmer 1,1328326,Wolfram,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51182,13.47093,Private room,35,2,40,2018-10-14,0.34,3,262,0,
+252993,Pension am Traveplatz Zimmer 2,1328326,Wolfram,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51182,13.47093,Private room,30,2,177,2020-01-01,1.53,3,98,0,
+253005,Pension am Traveplatz Zimmer 3,1328326,Wolfram,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51182,13.47093,Private room,30,2,56,2019-10-26,0.46,3,8,0,
+255368,Very Well Located Room in Neukolln's Trendy Area!,1341919,Stephanie,Neukölln,Reuterstraße,52.48584,13.42869,Private room,18,6,14,2020-09-15,0.31,1,0,0,
+255557,Cosy studio FridayBerlin for you,1343263,Agnieszka,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50786,13.46703,Entire home/apt,64,2,201,2021-10-24,1.75,1,158,28,"First name and Last name: Agnieszka Okular <br/> Contact address: Carrer Marina 65, 08005, Barcelona, España <br/>Listing address: Boxhagenerstrasse 53, 10245, Berlin, Alemania"
+255722,Renovated apt in an old building,1344455,Wolfram,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49707,13.3849,Entire home/apt,70,3,148,2021-11-24,1.22,1,251,17,02/Z/ZA/001717-15
+255778,Beautiful apt. in a great location,1344754,Bwk,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49769,13.44399,Entire home/apt,95,2,223,2020-10-05,2.53,1,142,0,
+255829,Idyllic located Apartment,1345035,Sylvia,Tempelhof - Schöneberg,Lichtenrade,52.39203,13.41021,Entire home/apt,58,3,88,2021-12-06,0.79,2,280,17,07/Z/ZA/001743-16
+255912,Apartment in a great location,1345381,Ulrike Und Kai,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50702,13.46821,Entire home/apt,82,5,133,2021-10-15,1.18,1,51,10,02/Z/NA/003287-16
+257317,Apartment in the heart of Berlin,1354122,Heike & Heinrich,Tempelhof - Schöneberg,Friedenau,52.46387,13.34225,Entire home/apt,65,2,111,2021-11-22,1.01,3,275,10,07/Z/ZA/001832-16
+257373,Sunny Boutique Studio in Center,1303212,David,Pankow,Prenzlauer Berg Südwest,52.53949,13.41615,Entire home/apt,107,1,173,2020-03-15,1.44,1,6,0,
+263817,Lovely_room_Berlin_Neukölln,1152791,ClaasFlorian,Neukölln,Reuterstraße,52.4894,13.42763,Private room,29,2,15,2020-01-20,0.37,1,16,0,
+264459,"Central, cosy and one-of-a-kind",1250154,Henrik,Pankow,Prenzlauer Berg Südwest,52.53237,13.41548,Entire home/apt,83,3,584,2021-12-15,4.93,2,28,31,
+265354,Nice apartment in Berlin,1391772,Sunflower Hostel,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.50977,13.44602,Private room,100,1,53,2021-11-28,0.58,13,348,5,
+265394,Stylish double room in Berlin,1391772,Sunflower Hostel,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.50977,13.44602,Private room,52,1,63,2021-11-24,0.76,13,321,23,
+265402,Nice room for 3 persons,1391772,Sunflower Hostel,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.50977,13.44602,Shared room,21,1,61,2021-11-04,0.75,13,307,18,
+265408,Elegant 4-bed room in Berlin,1391772,Sunflower Hostel,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.50977,13.44602,Shared room,20,1,22,2021-10-31,0.24,13,308,5,
+265955,Top Central Charming Relaxed Berlin,1394961,Antonella,Tempelhof - Schöneberg,Schöneberg-Nord,52.49015,13.35158,Entire home/apt,42,193,11,2016-12-15,0.10,1,201,0,
+266086,Private Ferienwohnung in Berlin,1395425,Hansjörg,Treptow - Köpenick,Baumschulenweg,52.44987,13.48777,Entire home/apt,85,3,9,2020-07-30,0.10,1,230,0,
+267951,Modernes Apartment in Berlin P´berg,1404760,Frank,Pankow,Helmholtzplatz,52.54424,13.42139,Entire home/apt,70,2,145,2021-11-28,1.54,1,143,17,03/Z/NA/001547-16
+268910,Southeast of Berlin - fantastic apartment,1408921,Dieter,Treptow - Köpenick,Altglienicke,52.41733,13.54189,Entire home/apt,48,3,26,2021-04-08,0.30,1,0,3,09/Z/NA/001144-16
+268974,Flat Familie Heucke,1409188,Peter,Neukölln,Rudow,52.41975,13.48541,Entire home/apt,60,3,28,2021-11-17,0.27,1,310,6,08/Z/NA/004785-17
+269455,rent a flat or room in kreuzberg,1411715,L. Anabel,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49667,13.40044,Entire home/apt,65,1,2,2018-07-26,0.05,1,0,0,
+270477,QUIET GARDEN (child friendly) private apartment,540534,Doris,Pankow,Helmholtzplatz,52.54345,13.41654,Private room,57,3,238,2021-11-21,1.96,1,313,17,"Legal entity name and Legal form: Nerus <br/>Legal representatives or Trade register number: Jessica <br/> Entity address: Lychener Strasse 58, 10439 , Berlin, Germany <br/>Listing address: Lychener Strasse 58, 10439 , Berlin, Germany"
+271340,Central & Homelike Apartment,1420077,Kai,Mitte,Brunnenstr. Süd,52.53869,13.40172,Entire home/apt,85,3,109,2021-12-12,0.94,1,14,10,
+273076,"nice apartment in Samoastr., Berlin",1428852,Jane,Mitte,Wedding Zentrum,52.54182,13.3527,Entire home/apt,65,3,8,2019-06-21,0.08,2,0,0,01/Z/ZA/007232-17
+273106,"beautiful stylish apartment, Berlin",1428852,Jane,Mitte,Wedding Zentrum,52.54265,13.35516,Entire home/apt,64,5,18,2017-11-01,0.15,2,0,0,
+278415,NEW Berlin Bellevue *Victory Column,1453075,Daniel,Mitte,Moabit Ost,52.51952,13.3513,Entire home/apt,90,60,65,2018-01-07,0.57,1,134,0,
+279315,Flat in Neukölln (Postmodern Cloister ),1456634,Annabella,Neukölln,Reuterstraße,52.48366,13.43928,Entire home/apt,29,21,4,2016-06-16,0.04,1,243,0,
+279344,Happy-haven in the heart of Berlin,1456872,Dot,Mitte,Alexanderplatz,52.52898,13.40406,Entire home/apt,79,5,48,2021-10-04,0.40,1,199,4,
+282214,Nice room close to Kurfürstendamm,1135836,Luca,Charlottenburg-Wilm.,Kantstraße,52.50621,13.3048,Private room,29,3,0,,,1,0,0,
+292864,Lounge Room –  Alex in 5 Min,286494,Project A,Pankow,Prenzlauer Berg Südwest,52.53091,13.41711,Private room,34,1,654,2021-12-08,5.59,4,316,36,"First name and Last name: Jesse Ang <br/> Contact address: Metzer Str. 25, 10405, Berlin, Deutschland <br/>Listing address: Metzer Str. 25, 10405, Berlin, Deutschland"
+297068,Villa Boo Boo Central & Comfortable,1531988,Anna,Mitte,Wedding Zentrum,52.55333,13.37199,Entire home/apt,35,92,62,2016-05-01,0.71,2,107,0,
+301773,Nice Apartment at Prenzlauer Berg,1554470,Hendrik,Pankow,Prenzlauer Berg Süd,52.53373,13.42435,Entire home/apt,64,2,57,2016-10-30,0.51,2,0,0,
+302167,Nice 2 Room apartment at Prenzl Bg,1554470,Hendrik,Pankow,Prenzlauer Berg Süd,52.53538,13.4296,Entire home/apt,66,3,64,2017-01-15,0.61,2,16,0,
+303097,Beautiful city apartment at park,1560726,Ann-Katrin,Pankow,Prenzlauer Berg Süd,52.52987,13.4268,Private room,54,3,38,2021-11-22,0.33,1,296,5,"First name and Last name: Carl Frech <br/> Contact address: Am Friedrichshain 25, 10407, Berlin, Deutschland <br/>Listing address: Am Friedrichshain 25, 10407, Berlin, Deutschland"
+303741,Beletage in the middle of B/Mitte,1563406,Martin,Mitte,Alexanderplatz,52.52576,13.39042,Private room,49,2,9,2019-12-15,0.10,2,334,0,
+304904,bedroom with your own bath,870376,Andreas,Pankow,Prenzlauer Berg Nordwest,52.55381,13.40553,Private room,29,30,255,2021-10-14,2.14,2,142,15,
+305987,Lovely Apartment in Berlin Prenzlauer Berg,246890,Imme,Pankow,Prenzlauer Berg Nordwest,52.54579,13.40737,Entire home/apt,71,3,274,2021-12-04,2.32,1,233,15,03/Z/AZ/003767-18
+306312,LOVINGLY RESTORED 100qm APARTMENT,1575292,Michel,Pankow,Prenzlauer Berg Südwest,52.53961,13.41951,Entire home/apt,159,4,218,2021-12-07,1.84,2,306,6,03/Z/ZA/001005-15
+306502,"1,5 bedroom at Ku'damm close to IFA",1576481,Norman,Charlottenburg-Wilm.,Düsseldorfer Straße,52.499,13.31127,Entire home/apt,71,4,3,2016-09-29,0.05,1,0,0,
+309511,Prenzlberg Designer Apt w. Balcony,1591761,Mauricio,Pankow,Prenzlauer Berg Süd,52.53639,13.42765,Entire home/apt,65,3,12,2016-04-23,0.10,1,0,0,
+311703,Elegant 4 Room Apartment with 2 Bathrooms,1602903,Kathrin,Tempelhof - Schöneberg,Schöneberg-Nord,52.49779,13.35518,Entire home/apt,261,3,200,2021-11-22,1.72,1,295,13,07/Z/NA/004419-17
+313876,quiet spacious sunny  2 room apt  w view 4.floor l,1574908,Jürgen,Charlottenburg-Wilm.,Halensee,52.4981,13.29312,Entire home/apt,47,90,3,2020-08-11,0.05,11,260,0,
+320279,STUDIO NEAR KASTANIENALLE,1641541,Stamatis,Mitte,Brunnenstr. Süd,52.53164,13.40554,Entire home/apt,77,7,83,2021-08-28,0.79,1,78,2,01/z/ra/011474-20
+320305,"Berlin Friedrichshain 1,5km to Alex",1641505,Sterni,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.5181,13.43261,Private room,38,4,92,2018-07-22,1.00,1,0,0,
+321295,Beautiful 1-room apartment,1354122,Heike & Heinrich,Tempelhof - Schöneberg,Friedenau,52.46353,13.34404,Entire home/apt,45,2,268,2021-10-18,2.32,3,278,10,07/Z/ZA/000462-14
+321308,Schönes Apartment in Berlin,1354122,Heike & Heinrich,Tempelhof - Schöneberg,Friedenau,52.46411,13.34383,Entire home/apt,50,2,99,2021-11-01,0.85,3,259,5,07/Z/ZA/000466-14
+321378,Designer Top-Floor Flat / 2 Roof Terraces in Mitte,3062473,Robin,Mitte,Brunnenstr. Süd,52.53392,13.40503,Entire home/apt,110,1,192,2021-10-16,1.61,3,334,22,
+322463,Great value studio in Prenzlauer Berg. StayBearlin,163384,Alan & Kasia StayBearlin,Pankow,Prenzlauer Berg Nord,52.54094,13.43602,Entire home/apt,74,3,376,2021-12-03,3.14,10,354,21,"Legal entity name and Legal form: StayBearlin <br/>Legal representatives or Trade register number: Alan Connaughton <br/> Entity address: Grellstraße 34, 10409, Berlin, Deutschland <br/>Listing address: Grellstraße 34, EG links, 10409, Berlin, Deutschland"
+322520,Sunny GARDEN apt in Prenzlauer Berg by StayBearlin,163384,Alan & Kasia StayBearlin,Pankow,Prenzlauer Berg Nord,52.5429,13.43628,Entire home/apt,68,3,368,2021-12-01,3.07,10,360,22,"Legal entity name and Legal form: StayBearlin <br/>Legal representatives or Trade register number: Alan Connaughton <br/> Entity address: Grellstraße 34, 10409, Berlin, Deutschland <br/>Listing address: Grellstraße 34, EG links, 10409, Berlin, Deutschland"
+323243,nettes Zweibettzimmer 1.3 (1. Etage),1654885,Claudius,Neukölln,Neuköllner Mitte/Zentrum,52.48348,13.42909,Private room,28,3,53,2021-11-01,0.44,10,342,1,
+323250,schickes Zweibettzimmer 1.1  (1. Etage),1654885,Claudius,Neukölln,Neuköllner Mitte/Zentrum,52.48348,13.42909,Private room,28,3,79,2020-01-02,0.67,10,276,0,
+323255,3 beds room No. 4 in Berlin,1654885,Claudius,Neukölln,Neuköllner Mitte/Zentrum,52.48348,13.42909,Private room,47,3,175,2021-12-01,1.47,10,350,9,
+323259,3 beds room No. 2 in Berlin,1654885,Claudius,Neukölln,Neuköllner Mitte/Zentrum,52.48348,13.42909,Private room,47,3,201,2021-11-29,1.70,10,352,12,
+327442,Best place!,1673681,David,Tempelhof - Schöneberg,Schöneberg-Süd,52.48288,13.35491,Private room,35,5,12,2016-08-13,0.10,1,0,0,
+329648,nice room with a balcony,1682922,Florian,Pankow,Prenzlauer Berg Nordwest,52.55193,13.41385,Private room,58,6,13,2020-07-29,0.11,1,266,0,03/Z/AZ/006416-21
+335273,Cool Design Apartment in Berlin,1641549,Greg,Pankow,Prenzlauer Berg Südwest,52.5376,13.41004,Entire home/apt,66,61,6,2015-04-06,0.06,1,292,0,
+341910,Top floor apartment in Berlin,1734792,Peter,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.49885,13.40021,Entire home/apt,65,2,353,2021-12-12,2.97,1,346,26,"First name and Last name: Peter Weis <br/> Contact address: Alexandrinenstr. 1a, 10969, Berlin, Berlin <br/>Listing address: Alexandrinenstr. 1a, 10969, Berlin, Berlin"
+344856,Too good to be true - in Friedrichshain Berlin,1749470,Apostolos,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.5135,13.45802,Entire home/apt,72,1,275,2021-09-24,2.90,2,356,28,
+344986,Sunny Cosy Prenzlauer Berg Berlin,1293030,HaZaSu,Pankow,Prenzlauer Berg Südwest,52.53754,13.41968,Private room,80,2,189,2021-10-29,1.68,2,74,9,03/Z/RA/003789-18
+345373,Loft-Apartment in Charlottenburg,976581,Gisela,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.51837,13.31841,Entire home/apt,49,60,4,2018-05-31,0.05,1,291,0,
+352998,TOP LOCATION City Rooms near Kudamm,1787661,Benjamin,Charlottenburg-Wilm.,Neue Kantstraße,52.50623,13.30163,Private room,31,92,53,2021-10-31,0.45,1,91,2,
+355227,Il Nido - Berlin's Mitte for 1-2,1798305,Catherina,Mitte,Moabit Ost,52.52332,13.35737,Entire home/apt,60,45,1,2012-07-08,0.01,1,169,0,
+355494,2-room-holiday-apartment,1799516,Ljubomira,Pankow,Blankenburg/Heinersdorf/Märchenland,52.57917,13.44359,Entire home/apt,55,2,143,2021-10-24,1.41,1,259,4,03/Z/AZ/003651-18
+362076,BEMYGUEST-FAMILY RESIDENCY MITTE,726769,Rudie,Mitte,Alexanderplatz,52.52173,13.40483,Entire home/apt,105,4,75,2021-12-07,0.64,2,49,16,01/Z/AZ/009100-18
+362701,Gemütliches Apartment mit Vogelzwitschern,1832975,Ursula,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.5028,13.4374,Entire home/apt,89,6,381,2021-12-04,3.24,1,240,10,"First name and Last name: Ursula Breinl <br/> Contact address: Köpenicker Str. 10a, 10997, Berlin, Berlin <br/>Listing address: Köpenicker Str. 10a, 10997, Berlin, Berlin"
+362874,Apartment in Neukölln/Kreuzberg,1833946,Johannes,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49211,13.42255,Entire home/apt,78,5,9,2018-09-03,0.08,1,0,0,
+363413,Room Prenzlauer Berg Kollwitzplatz area,1668497,Tom,Pankow,Prenzlauer Berg Südwest,52.53672,13.42018,Private room,56,2,19,2019-09-29,0.28,1,0,0,536795
+363454,Apartment Berlin Kreuzberg,1836439,Alexander,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49283,13.41115,Entire home/apt,79,3,262,2021-12-07,2.30,2,273,26,"First name and Last name: Alexander Gedenk <br/> Contact address: Grimmstrasse, 16N, 10967, Berlin, Deutschland <br/>Listing address: Dieffenbachstr 7, EG rechts, 10967, Berlin, Deutschland"
+380281,Sunny big room with a beautiful balcony,399745,Jan,Pankow,Pankow Süd,52.56029,13.4176,Private room,33,14,66,2021-11-08,0.56,1,288,5,03/Z/AZ/003833-18
+387607,Ground floor apartment with terrace,347279,Gareth,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.5088,13.4558,Entire home/apt,49,180,16,2020-02-11,0.16,1,1,0,
+393598,"Quiet Oasis  in ""Kreuzkölln"" 60 sqm",1968246,Sabine,Neukölln,Rixdorf,52.48184,13.44061,Entire home/apt,67,180,56,2019-10-10,0.48,3,0,0,
+395063,furnished Room in an apartment in Friedrichshain,1974695,Katharina,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51586,13.46388,Private room,28,1,47,2021-11-12,0.45,1,23,8,02/Z/AZ/014166-21
+398011,2-room miracle in P-berg + balcony,1968246,Sabine,Pankow,Prenzlauer Berg Ost,52.53645,13.44103,Entire home/apt,65,180,34,2016-04-25,0.30,3,0,0,
+398962,SUNNY LOFT/ARTIST-SPACE IN NEUKÖLLN,1992886,Lukas,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48987,13.423,Entire home/apt,90,20,19,2019-08-17,0.16,1,56,0,
+399312,Bright and cosy flat wit balcony :),1994169,Anaís,Neukölln,Schillerpromenade,52.47837,13.42436,Entire home/apt,90,4,33,2020-02-29,0.29,1,283,0,08/Z/ZA/005218-17
+399386,2 room Apartment Schöneberg,472567,Alexandra,Tempelhof - Schöneberg,Schöneberg-Süd,52.48161,13.35973,Entire home/apt,69,4,36,2021-09-21,0.34,4,272,3,07/Z/RA/008129-19
+400642,sunny and spacious 2-room flat,1999892,Doris,Charlottenburg-Wilm.,Halensee,52.50249,13.29501,Entire home/apt,168,12,5,2015-10-28,0.06,1,0,0,
+400832,Room in great green city location,560812,Silke,Steglitz - Zehlendorf,Schloßstr.,52.45944,13.30963,Private room,50,3,142,2021-12-17,1.28,2,341,2,
+406774,Quiet room 40 min from BER  @Central Berlin Xberg,2026414,Martin,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50346,13.38851,Private room,65,4,57,2021-09-27,1.68,1,74,2,02/Z/AZ/010764-19
+407222,Berlin Prenzlauer Berg small & quiet,2028853,Gritta,Pankow,Prenzlauer Berg Südwest,52.53123,13.4186,Private room,38,84,167,2021-09-20,1.44,2,172,1,
+408575,"*Own bathroom, city center, quiet*",2028853,Gritta,Pankow,Prenzlauer Berg Südwest,52.53163,13.41836,Private room,46,84,165,2021-02-15,1.43,2,177,1,
+408756,ZAZA - APARTMENT PRENZLAUER BERG,2035424,Björn,Pankow,Prenzlauer Berg Südwest,52.53838,13.41093,Entire home/apt,109,3,226,2021-12-13,1.99,1,305,29,"Legal entity name and Legal form: Kremser&amp;Wegener GbR <br/>Legal representatives or Trade register number: Kremser Björn, Wegener Marco <br/> Entity address: Kastanienallee 12, 10435, Berlin, Deutschland <br/>Listing address: Kastanienallee 12, 10435, Berlin, Deutschland"
+410020,"room in spacious 2 room apt. in Rixdorf, Neukölln",2041077,Angelica,Neukölln,Rixdorf,52.47374,13.44847,Private room,25,10,10,2020-10-26,0.09,1,0,0,
+412418,"2,5 Room Apartment in Neukölln, Berlin",1482815,Grit,Neukölln,Rixdorf,52.48252,13.44715,Entire home/apt,50,3,11,2018-08-12,0.10,1,0,0,
+420114,Stylish Attic-Penthouse in Mitte/Kreuzberg,2089041,Tobias,Mitte,Alexanderplatz,52.51416,13.41568,Entire home/apt,100,5,54,2019-05-28,0.46,1,0,0,
+421236,Apartment - countryside of Berlin,2094782,Anja,Steglitz - Zehlendorf,Zehlendorf  Südwest,52.43663,13.21023,Entire home/apt,41,28,10,2019-06-28,0.13,1,290,0,06/Z/ZA/002263-17
+425411,Nice vacation apartment in Berlin-Mitte,2115002,Hans,Mitte,Brunnenstr. Süd,52.52971,13.38907,Entire home/apt,70,3,251,2021-12-11,3.95,2,170,22,01/Z/AZ/013322-21
+425487,Nice and quiet apartment in Berlin-Mitte,2115002,Hans,Mitte,Brunnenstr. Süd,52.52961,13.38904,Entire home/apt,85,3,187,2021-11-14,1.59,2,173,14,01/Z/AZ/013323-21
+426887,2-room apt in Friedrichshain/WLAN,228016,Jan&Elena,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51009,13.47205,Entire home/apt,31,183,20,2021-03-14,0.17,2,23,1,
+429677,90 m² Family Base @ Kreuzberg /Gräfekiez,2100173,Nicolai,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49078,13.41395,Entire home/apt,75,7,0,,,1,0,0,
+434209,Cute In-Law Suite with Garden Access,1262962,Anne,Reinickendorf,Nord 2,52.59239,13.32588,Entire home/apt,36,8,43,2021-04-18,0.37,1,0,3,
+439089,Spacious & Sunny in Prenzlauer Berg,2099340,Amanda,Pankow,Helmholtzplatz,52.5411,13.41506,Entire home/apt,154,15,1,2019-06-30,0.03,1,0,0,
+439613,Berlin Flair,2183595,Angel,Pankow,Prenzlauer Berg Südwest,52.53806,13.41159,Private room,38,14,9,2021-03-06,0.20,1,0,1,
+439631,2 room stylish near Mauerpark  WLAN,1968246,Sabine,Pankow,Prenzlauer Berg Süd,52.53606,13.42828,Entire home/apt,56,180,19,2018-08-20,0.20,3,0,0,
+446975,Coach House with a little garden,2219552,Kerstin,Pankow,Helmholtzplatz,52.54116,13.41449,Entire home/apt,51,2,214,2021-11-09,2.01,1,136,7,03/Z/NA/001376-16
+447524,City apartment at the Ku`damm,901878,H.,Charlottenburg-Wilm.,Halensee,52.49675,13.30447,Entire home/apt,28,1,0,,,1,299,0,
+453070,Apartment in Kreuzberg,877133,James,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48845,13.39543,Private room,110,2,2,2016-09-24,0.03,1,0,0,
+456902,Maisonette Apartment in Kreuzberg,2271792,Stefan,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49257,13.41091,Entire home/apt,83,2,353,2021-12-17,3.09,1,242,28,02/Z/ZE/003271-16
+462459,COOL BERLIN MITTE FLAT,311022,Antonia,Pankow,Prenzlauer Berg Süd,52.53112,13.42019,Entire home/apt,76,4,9,2018-05-31,0.08,1,0,0,
+464324,spacious room in light-flooded classy apartment,2266593,Gudrun,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48946,13.37568,Private room,48,5,31,2019-06-10,0.27,1,0,0,
+466983,beautiful light room in 100qm place,2017884,Claudia,Mitte,Alexanderplatz,52.52818,13.40969,Private room,29,3,75,2018-04-01,0.93,1,0,0,
+471495,"Nice, bright, quiet and comfy!",2338605,Sabrina,Neukölln,Schillerpromenade,52.48122,13.42235,Private room,33,5,5,2018-07-16,0.04,1,0,0,
+473386,"Schoeneberg, , Gay Area  Reg.Nr. 04/Z/ZA/001408-14",2347025,Alex,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49922,13.33623,Entire home/apt,100,4,98,2021-12-07,0.85,1,61,10,04/Z/ZA/001408-14
+476077,Cosy Penthouse + sunny patio in NK,2041933,Gorun,Neukölln,Reuterstraße,52.48805,13.44107,Entire home/apt,54,30,15,2018-12-19,0.16,1,57,0,
+477515,"Apartment in Prenslauerberg, Mitte,",2366664,Torsten,Pankow,Helmholtzplatz,52.54297,13.42026,Entire home/apt,199,1,133,2021-11-04,1.17,1,320,6,03/Z/RA/005619-20
+477744,Bed&bike in the heart of Kreuzberg,2273054,Karlheinz,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.5025,13.41729,Private room,30,30,165,2021-08-24,1.46,1,167,5,
+478015,Sunny and Spacious Design Apartment,2368302,Viktoria,Tempelhof - Schöneberg,Schöneberg-Nord,52.49718,13.35518,Entire home/apt,85,4,50,2020-10-18,0.43,2,0,0,
+484506,Cosy flat in the heart of Kreuzberg,1928335,Nico,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49585,13.42478,Entire home/apt,58,5,8,2016-04-26,0.08,1,0,0,
+486192,very central and charming room,2406372,Alexandra,Mitte,Alexanderplatz,52.52836,13.40555,Private room,45,3,41,2018-01-05,0.35,1,260,0,
+487126,Exclusive apartment in top location,2411069,Carl,Pankow,Prenzlauer Berg Südwest,52.53879,13.41633,Entire home/apt,140,7,48,2020-09-18,0.41,1,106,0,
+488161,Stylish Apartment in Schillerkiez,2415122,Heinrich,Neukölln,Schillerpromenade,52.47919,13.42538,Entire home/apt,91,3,119,2021-10-03,1.03,1,348,10,08/Z/AZ/010865-21
+493072,1 Room in Berlin Center with Artist,1903768,Gregor,Mitte,Alexanderplatz,52.52944,13.40338,Private room,44,3,209,2020-02-28,1.82,1,227,0,
+493539,Spend the night in the oldest house in Berlin!,2437942,Marius,Mitte,Alexanderplatz,52.5151,13.41369,Entire home/apt,143,1,292,2020-03-07,3.93,2,314,0,
+495240,1-Bed in Neukölln (Boddinstrasse),2446178,Danni,Neukölln,Schillerpromenade,52.48131,13.42314,Entire home/apt,64,14,32,2021-11-22,0.40,1,22,2,
+495435,Great flat in Berlin-Kreuzberg!,2044822,Travis,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49124,13.41682,Entire home/apt,50,7,3,2015-04-08,0.03,1,0,0,
+496570,90 qm in Berlin Mitte - center,2449119,Natalija,Mitte,Brunnenstr. Süd,52.53593,13.38122,Entire home/apt,65,14,0,,,1,0,0,
+499342,"Central, bright & charming in Mitte",955509,Karsten,Mitte,Brunnenstr. Süd,52.5361,13.37822,Entire home/apt,75,3,371,2021-09-27,3.25,2,0,12,
+499353,Central & tasteful apt in Mitte,955509,Karsten,Mitte,Brunnenstr. Süd,52.53608,13.37843,Entire home/apt,75,3,338,2021-10-24,3.00,2,0,15,
+499850,Berlin Mitte - Sunny Penthouse,1397552,Sam,Mitte,Alexanderplatz,52.5133,13.41781,Private room,53,1,51,2018-06-15,0.45,1,0,0,
+501735,Beautiful 3 room apt. in Kreuzberg,2475800,Nicolas & Anna,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49343,13.3969,Entire home/apt,39,7,5,2015-04-14,0.05,1,0,0,
+502598,"Casa Marfisa: great location, Mitte",2480274,Marfisa,Mitte,Brunnenstr. Süd,52.53325,13.40217,Entire home/apt,101,28,8,2020-07-15,0.07,2,230,0,
+504259,AMAZING APARTMENT 1 - TOP LOCATION,472567,Alexandra,Pankow,Helmholtzplatz,52.54407,13.42201,Entire home/apt,196,3,214,2021-11-28,1.85,4,216,19,
+509432,"25m2 room in Berlin, Prenzlauerberg",94844464,Sven,Pankow,Helmholtzplatz,52.54616,13.42069,Private room,35,60,67,2021-06-20,0.84,1,170,1,
+509787,Top apartment Mexikoplatz Berlin,897302,Paul,Steglitz - Zehlendorf,Zehlendorf  Nord,52.43781,13.23219,Entire home/apt,80,122,18,2016-08-10,0.16,4,364,0,
+510987,Charming flat in Neukölln,2517631,Miriam,Neukölln,Reuterstraße,52.4887,13.43648,Private room,38,5,10,2018-06-09,0.17,1,0,0,
+511935,high standard 170sqm rooftop w/2ter in Schöneberg,2494425,Manuel,Tempelhof - Schöneberg,Schöneberg-Süd,52.48916,13.35058,Entire home/apt,245,4,70,2021-11-15,0.61,2,349,3,07/Z/RA/010572-21
+512476,"Modern apartment, 4 people in Tempe",2524654,Birgit,Tempelhof - Schöneberg,Tempelhof,52.4568,13.38698,Entire home/apt,60,3,208,2020-03-16,2.25,1,70,0,Wohn34-07/Z/ZA/003689-17
+517425,Cloud room in Berlin's center - zero waste living,2547002,Studio A,Pankow,Prenzlauer Berg Südwest,52.53097,13.41577,Private room,32,1,638,2021-12-11,5.52,1,266,58,"First name and Last name: Claudia Ang-Stein <br/> Contact address: Metzer Str. 25, 10405, Berlin, Deutschland <br/>Listing address: Metzer Str. 25, 10405, Berlin, Deutschland"
+519671,Great apartment in central Berlin,2557466,Lida,Pankow,Prenzlauer Berg Nordwest,52.54797,13.40576,Entire home/apt,59,14,51,2021-05-30,0.45,1,201,2,"First name and Last name: Lida Chery <br/> Contact address: 9avfoch, 95220, Herblay, france <br/>Listing address: 22 kopenhagener strasse, 10437, Berlin, Germany"
+520538,Apart. Prenzlb./Helmholtzplatz WiFi,2561273,Anett,Pankow,Helmholtzplatz,52.54183,13.41924,Entire home/apt,109,3,63,2020-03-09,0.55,2,319,0,
+523052,Domizil Neu Venedig FeWo für 4 Per,2571986,Stefan,Treptow - Köpenick,Rahnsdorf/Hessenwinkel,52.43286,13.70843,Entire home/apt,59,3,14,2021-10-03,0.23,1,212,5,03/Z/ZA/000999-16
+530315,Wohlfühl-Insel - Ideal zentral 76 qm Berlin-Mitte,2604680,Regina,Mitte,Alexanderplatz,52.51789,13.41801,Entire home/apt,120,10,27,2021-08-20,0.67,2,0,2,01/Z/ZA/004768-16
+532687,lovely home - heart of neukölln,2617508,Ja,Neukölln,Neuköllner Mitte/Zentrum,52.46897,13.44349,Private room,40,3,7,2015-09-21,0.09,1,0,0,
+533155,4m high ceiling Studio next to the river Spree,2619552,Edward,Mitte,Moabit West,52.52434,13.32946,Entire home/apt,95,3,134,2021-11-07,1.17,1,89,5,"First name and Last name: Edward Bae <br/> Contact address: Beusselstrasse 2, 10553, Berlin, Germany <br/>Listing address: Beusselstrasse 1, 10553, Berlin, Germany"
+533523,Berlin Designer Apartment Marlene,2621923,Frank Norbert,Tempelhof - Schöneberg,Schöneberg-Süd,52.48207,13.36099,Entire home/apt,58,3,331,2021-12-12,2.91,1,276,29,07/Z/ZA/001815-16
+533864,"new, stylish, comfortable, center",2625980,Michael Girolamo,Mitte,Alexanderplatz,52.50553,13.42047,Entire home/apt,100,3,68,2021-11-14,0.60,1,262,10,01/Z/ZA/006190-16
+534415,"Spac. 85m sq three room appartment,",2626550,Mathis,Mitte,Brunnenstr. Nord,52.54964,13.37877,Entire home/apt,64,14,3,2016-08-02,0.04,1,0,0,
+534931,Feine Sonnenloge/Splendid Sunlodge,2615665,Max,Neukölln,Schillerpromenade,52.47213,13.42633,Entire home/apt,21,10,0,,,1,0,0,
+541569,Apartment near Mauerpark,2662493,Silke,Pankow,Prenzlauer Berg Nordwest,52.5475,13.40002,Entire home/apt,77,2,262,2021-12-06,2.29,1,218,16,"First name and Last name: Silke Krüger <br/> Contact address: Schwedter Straße 81, 10437, Berlin , Deutschland  <br/>Listing address: Kopenhagener Straße 37, 10437, Berlin , Deutschland "
+541663,1-room flat in Kreuzkölln/WIFI,228016,Jan&Elena,Neukölln,Reuterstraße,52.49436,13.4226,Entire home/apt,29,183,55,2018-04-18,0.48,2,17,0,
+542316,by the lake,2677541,Dimitri,Treptow - Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,52.34579,13.64364,Entire home/apt,99,2,2,2016-06-17,0.02,4,0,0,
+542674,Nice room in Berlin Schöneberg,1026735,Wolfgang,Tempelhof - Schöneberg,Schöneberg-Nord,52.49081,13.34785,Private room,40,3,43,2021-12-03,0.37,1,27,2,
+545037,ROOF TERRACE DREAM CHARLOTTENBURG,2690936,Britt,Charlottenburg-Wilm.,Neue Kantstraße,52.50585,13.29594,Entire home/apt,73,60,4,2020-03-07,0.04,1,76,0,
+550445,Cosy flat with garden + nice location,2701180,Sandrine,Mitte,Wedding Zentrum,52.55159,13.37746,Entire home/apt,39,6,9,2017-12-30,0.08,1,0,0,
+555352,Caravan Landhaus Seeapartment,2677541,Dimitri,Treptow - Köpenick,Schmöckwitz/Karolinenhof/Rauchfangswerder,52.34666,13.64336,Entire home/apt,60,2,1,2014-06-09,0.01,4,0,0,
+556691,Beautiful Large Apartment in Mitte!,344615,Melissa,Mitte,Brunnenstr. Nord,52.54042,13.37282,Entire home/apt,120,3,5,2018-02-25,0.04,1,319,0,
+559210,In the heart of Berlin,2751981,Irmelin,Mitte,Alexanderplatz,52.52333,13.39676,Private room,50,1,3,2020-02-10,0.08,1,0,0,
+559794,Bright & Playful Writers Apartment in Neukölln,2746801,Carolin,Neukölln,Schillerpromenade,52.4789,13.42376,Entire home/apt,85,4,7,2021-08-22,0.06,1,169,1,
+568307,Beautiful furnished room Prenzlberg,2796030,Ursula,Pankow,Helmholtzplatz,52.54436,13.41582,Private room,34,1,170,2021-12-05,1.48,1,287,14,
+570153,2 rooms for rent Berlin Kladow  05/Z/AZ/006686-18,2805604,Gerd,Spandau,Gatow / Kladow,52.47818,13.12428,Private room,49,7,80,2020-09-07,0.73,1,231,0,05/Z/AZ/006686-18
+571074,Nice place to stay,2810411,Lutz,Treptow - Köpenick,Johannisthal,52.43069,13.50875,Entire home/apt,50,3,47,2020-03-08,0.41,1,160,0,
+573171,PalazoNour  im Prenzlauer Berg,2769139,Saliha,Pankow,Prenzlauer Berg Süd,52.52848,13.41909,Private room,35,2,501,2021-12-13,4.38,1,228,32,
+573259,1 bedroom in beautiful 3 room apt Berlin Mitte,2820919,Michael,Mitte,Moabit West,52.52358,13.34047,Private room,60,1,9,2021-10-28,0.12,1,166,2,01/Z/AZ/010063-19
+578612,Beautiful Appartment to Rent !!!!!,2756126,Bastian,Neukölln,Schillerpromenade,52.46689,13.42325,Entire home/apt,59,7,18,2019-10-09,0.17,1,0,0,
+578821,Apartment Central Nollendorfplatz,2847303,Andrew,Tempelhof - Schöneberg,Schöneberg-Nord,52.49847,13.34911,Entire home/apt,29,124,79,2021-09-01,0.71,1,139,1,
+580013,"Gorgeous Deluxe Apartment near Kudamm, KaDeWe",308441,Amit,Tempelhof - Schöneberg,Schöneberg-Nord,52.50143,13.34437,Entire home/apt,61,4,205,2021-12-15,1.79,3,121,24,07/Z/ZE/004015-17
+580667,"70qm 1br - bright, artsy and high tech",2857353,Anna,Tempelhof - Schöneberg,Tempelhof,52.45767,13.37887,Entire home/apt,90,5,28,2021-08-15,0.25,1,0,3,07/Z/RA/010212-21
+582053,Beautiful Flat in Prenzlauer Berg,2865743,Britta,Pankow,Prenzlauer Berg Süd,52.53792,13.42493,Entire home/apt,73,3,53,2021-09-09,0.48,1,2,4,03/Z/RA/003441-18
+583916,Gästeappartement in Rudow (App. 2),2877505,Carola,Neukölln,Rudow,52.41305,13.47963,Entire home/apt,55,3,32,2021-12-01,0.34,2,333,4,08/Z/ZA/004183-16
+584012,In the middle of the action in Berlin,2709580,Rita,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50218,13.37687,Private room,22,2,533,2021-12-07,4.65,1,244,48,02/Z/AZ/012072-20
+584757,Nice room trendy Prenzlauberg,2881484,Daniel,Pankow,Prenzlauer Berg Nordwest,52.55438,13.40816,Private room,20,1000,26,2020-06-28,0.23,1,365,0,
+588011,Kreuzberg idyll on the Landwehrkana,2900624,Leo,Neukölln,Reuterstraße,52.49305,13.42712,Entire home/apt,100,4,140,2021-10-05,1.22,1,54,5,08/Z/RA/008939-20
+589169,Lovely flat in Prenzlauer Berg,1483789,Thomas,Pankow,Prenzlauer Berg Süd,52.53137,13.42697,Entire home/apt,158,7,71,2021-10-17,0.63,2,0,3,03/Z/RA/004109-18
+589285,Soothing Retreat in Hip Kreuzkölln,708304,Martin,Neukölln,Rixdorf,52.48623,13.44967,Entire home/apt,37,93,98,2020-12-12,0.86,1,260,0,
+589293,Lovely Kollwitzplatz - Apartment,206338,Heike,Pankow,Prenzlauer Berg Südwest,52.5373,13.41563,Entire home/apt,48,92,43,2021-08-31,0.38,1,303,1,
+590200,Gästeappartement in Rudow (App.1),2877505,Carola,Neukölln,Rudow,52.41335,13.47975,Entire home/apt,65,3,36,2021-10-25,0.41,2,270,5,08/Z/ZA/004183-16
+592059,Beautiful 1 1/2 r. in student area,2922816,Linda,Neukölln,Schillerpromenade,52.47095,13.42721,Private room,50,3,5,2016-03-22,0.04,1,0,0,
+594032,NEW City West apt. for 8 people,2933986,Ariane,Charlottenburg-Wilm.,Halensee,52.49739,13.30231,Entire home/apt,65,60,88,2021-08-16,1.28,1,144,4,04/Z/ZA/004724-16
+597413,Cozy flat,2953733,Semra,Reinickendorf,Ost 2,52.57379,13.35485,Private room,31,14,34,2021-01-28,0.30,3,306,1,12/Z/AZ/002027-18
+598335,Lovely place with terrace in Mitte,1090989,Maxime,Mitte,Brunnenstr. Süd,52.52825,13.39147,Entire home/apt,65,5,7,2016-01-03,0.06,1,0,0,
+598407,Small Paradise in Berlin Kreuzberg (2 bath rooms),2958863,Xenios,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49234,13.4139,Entire home/apt,93,30,97,2021-09-25,0.86,2,158,5,02/Z/AZ/008982-18
+598982,Altbau Kreuzberg Wienerstrasse,1629714,Ilias,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49615,13.43335,Entire home/apt,120,90,59,2021-09-30,0.52,1,122,1,"First name and Last name: Ilias Lefas <br/> Contact address: Lausitzerstr 48, 10999, Berlin, Berlin <br/>Listing address: Lausitzerstr 48, 10999, Berlin, Berlin"
+604068,Beautiful Spacious Berlin Flat,1315569,Greg & Emmy,Mitte,Parkviertel,52.5461,13.35043,Entire home/apt,80,8,9,2017-05-13,0.08,1,0,0,
+606926,My home in Berlin might be yours !,3006939,Yves,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.52302,13.45452,Entire home/apt,81,3,83,2021-07-25,0.73,1,75,5,02/Z/RA/008080-18
+609459,Sunny 4room apartment in Schöneberg,3021382,Anna,Tempelhof - Schöneberg,Schöneberg-Süd,52.47988,13.35898,Private room,70,7,0,,,1,0,0,
+612197,Top Roof in Berlin Mitte/Alexview,1907484,Marc,Mitte,Alexanderplatz,52.52874,13.40278,Entire home/apt,106,3,17,2018-05-21,0.15,1,0,0,
+615018,Small Apartment in Berlin-Center,3049584,Martin,Mitte,Alexanderplatz,52.51206,13.41754,Entire home/apt,74,1,364,2021-11-22,3.20,1,139,16,
+618049,Big room with sunny balcony !,2934825,Camille,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50967,13.45671,Private room,30,3,49,2016-10-03,0.43,1,0,0,
+623231,Traumhafte Altbauwohnung F'hain,3090292,Sebastian,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50292,13.45342,Private room,35,2,7,2015-09-05,0.07,1,0,0,
+626620,Sunny apartment,2953733,Semra,Reinickendorf,Ost 2,52.57196,13.35589,Private room,44,2,19,2020-01-03,0.20,3,0,0,
+627152,Berlin Family Apartment,897302,Paul,Pankow,Weißensee,52.55726,13.43611,Entire home/apt,120,122,39,2016-05-29,0.34,4,363,0,
+632038,Spacious Industrial Style Apartment,3144062,Albe,Pankow,Prenzlauer Berg Nordwest,52.554,13.41204,Private room,62,2,18,2020-09-30,0.57,1,0,0,
+633531,Sunny flat in the heart of Kreuzberg,3153767,Elly,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49664,13.40311,Entire home/apt,35,5,2,2018-06-25,0.02,1,0,0,
+638162,Bright days in Top floor 100 m2 with terrace,3183826,Anton,Neukölln,Neuköllner Mitte/Zentrum,52.48105,13.42655,Entire home/apt,65,7,104,2021-11-16,0.92,1,15,8,
+642955,"Sexy Central Flat with View, Home Working Perfect!",3214630,Maddalena,Mitte,Alexanderplatz,52.52819,13.39641,Entire home/apt,79,2,102,2021-09-30,0.90,1,0,5,01/Z/RA/008451-18
+647944,Charming and Cosy P-Berg Haven,3249789,Tom,Pankow,Prenzlauer Berg Nordwest,52.55167,13.40318,Entire home/apt,45,7,4,2012-12-17,0.04,1,0,0,
+650784,Beautiful Room in Neukölln,3268804,Courtney,Neukölln,Rixdorf,52.47813,13.44657,Private room,20,20,0,,,1,0,0,
+652366,Berlin Room Oriental Style P'Berg,286494,Project A,Pankow,Prenzlauer Berg Südwest,52.53103,13.41687,Private room,30,1,608,2021-12-16,5.36,4,340,38,"First name and Last name: Jesse Ang <br/> Contact address: Metzer Str. 25, 10405, Berlin, Deutschland <br/>Listing address: Metzer Str. 25, 10405, Berlin, Deutschland"
+653677,WONDERFUL ROOF RIVERSIDE APARTMENT,3287639,Simone,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49169,13.43446,Entire home/apt,95,4,79,2021-08-10,0.70,1,0,4,
+655748,Great roof apartment in Berlin,3301626,Daphna,Pankow,Weißensee,52.55685,13.43355,Private room,45,5,0,,,1,0,0,
+660996,Live like a Berliner in the city,3337306,Loretta,Tempelhof - Schöneberg,Schöneberg-Nord,52.49726,13.35215,Private room,73,3,33,2021-12-07,0.37,2,364,3,07/Z/RA/005462-18
+661574,"Cozy room in Graefekiez, Kreuzberg",3340090,Marcel,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49242,13.42037,Private room,39,2,166,2021-09-27,1.47,1,232,1,
+667608,amazing artist loft - Kreuzberg,174970,Judith,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.4882,13.41995,Entire home/apt,200,3,10,2016-06-09,0.11,2,0,0,
+667849,Furnished Appartment in Berlin,3379392,Anatol,Tempelhof - Schöneberg,Schöneberg-Süd,52.48512,13.3558,Entire home/apt,65,93,38,2021-07-31,0.38,1,170,3,
+667899,Big and cosy room in Neukölln,3358638,Melissa,Neukölln,Reuterstraße,52.48254,13.43939,Private room,20,1,5,2016-09-23,0.06,1,0,0,
+668962,bright cosy flat at Kottbusser Tor,3386222,Daniel,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.4996,13.41695,Entire home/apt,61,2,25,2020-11-01,0.24,2,0,0,
+669429,Cosy Room at Kottbusser Tor,3386222,Daniel,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.49764,13.4157,Private room,41,1,47,2020-10-22,0.42,2,0,0,
+671958,Cosy room in the heart of Berlin,3407550,Christine,Charlottenburg-Wilm.,Volkspark Wilmersdorf,52.48955,13.32265,Private room,54,1,126,2021-12-12,1.44,1,117,7,"First name and Last name: Christine Zewde <br/> Contact address: Uhlandstr.108, 10717, Berlin, Deutschland <br/>Listing address: Uhlandstr. 108, 10717, Berlin, Deutschland"
+680999,Rosenthaler Platz 60qm Loft Flat,961411,Howy,Mitte,Alexanderplatz,52.52941,13.39821,Entire home/apt,79,3,90,2020-01-17,0.99,2,291,0,
+681132,"City flat for 2 people, in Mitte",3468407,Claudia,Mitte,Moabit Ost,52.53088,13.35107,Entire home/apt,45,5,82,2021-10-01,0.93,2,249,6,"First name and Last name: Claudia Schuster  <br/> Contact address: Wilsnacker Str., 10559, Berlin, Deutschland <br/>Listing address: Kruppstr., 10559, Berlin, Deutschland"
+681420,Beatiful penthouse in Rosenthal,3470183,Anja,Pankow,Schönholz/Wilhelmsruh/Rosenthal,52.59767,13.37674,Entire home/apt,45,1,0,,,1,0,0,
+682637,"Cosy, light-flooded, beauteous flat",3478314,Lisa,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48875,13.3952,Entire home/apt,78,3,23,2019-01-02,0.25,1,0,0,
+682854,Bright and beautiful in Berlin,33355,Doug,Mitte,Moabit Ost,52.53408,13.35895,Entire home/apt,95,3,6,2014-02-16,0.06,1,0,0,
+683337,Am Mauerpark 3-Zi-Wohnung,3482823,Julia,Mitte,Brunnenstr. Nord,52.54188,13.39834,Entire home/apt,100,4,1,2015-01-03,0.01,2,0,0,
+685944,Center - Artist Studio with Garden,1517951,Claudia,Mitte,Tiergarten Süd,52.50244,13.36344,Entire home/apt,134,2,271,2021-11-17,2.49,1,237,20,"First name and Last name: Claudia Foeller  <br/> Contact address: Lützowstraße 81, 10785, Berlin, Berlin <br/>Listing address: Lützowstraße 81, Remise, 10785, Berlin, Berlin"
+687582,Charming apartment in Kreuzberg,3509262,Kemal,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.49798,13.39973,Entire home/apt,81,90,149,2021-09-27,1.64,1,89,10,02/Z/RA/009891-19
+687635,Cosy bright flat in Gräfekiez,3509616,Nicole,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49232,13.42048,Entire home/apt,65,5,9,2019-10-16,0.17,1,0,0,
+692348,Terrace on Rosa-Luxemburg Platz,3540257,Liviana,Mitte,Alexanderplatz,52.52658,13.4104,Entire home/apt,45,190,9,2016-10-04,0.08,1,350,0,
+693357,Cozy Kreuzberg-Near Hasenheide park,3259989,Gili,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48749,13.41877,Entire home/apt,38,92,178,2020-09-21,1.59,2,231,0,
+694373,HÜBSCHES PRENZLBERG,3553386,Natasha,Pankow,Prenzlauer Berg Süd,52.53044,13.43323,Private room,850,1,0,,,1,365,0,
+694802,Beautiful 90qm in Friedrichshain !!,3556585,Michael & Eva,Pankow,Prenzlauer Berg Ost,52.52138,13.45674,Entire home/apt,105,60,116,2019-08-24,1.03,1,185,0,
+694871,Enchanting 142m²(1530 ft²)  Loft/Flat in F'Hain,1312190,Davide,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.51442,13.45243,Entire home/apt,315,3,142,2021-12-09,1.35,2,157,26,02/Z/RA/012757-20
+696372,"Cosy light room , bath with own bathtube",3566045,Judith,Lichtenberg,Alt-Hohenschönhausen Nord,52.56179991169195,13.493986362326739,Private room,36,2,49,2021-12-16,0.54,3,273,6,11/Z/AZ/002171-21
+698727,Central location,3565185,Roumiana,Steglitz - Zehlendorf,Albrechtstr.,52.45308,13.35351,Entire home/apt,90,2,76,2021-11-20,0.72,1,204,7,06/Z/RA/002637-18
+700806,"Room in a charming apartment,Berlin",3595382,Vincent,Tempelhof - Schöneberg,Schöneberg-Nord,52.49211,13.36937,Private room,46,3,125,2019-07-30,1.12,1,165,0,
+701909,Industrial-Design Loft in Friedrichshain,3602742,Lorant,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Süd,52.51279,13.44946,Entire home/apt,180,2,78,2021-12-06,0.84,1,45,4,"First name and Last name: Lorant Füzesi  <br/> Contact address: Gubener Str. 44, 10243, Berlin, Deutschland  <br/>Listing address: Gubener Str. 44, 10243, Berlin, Deutschland "
+702921,Sunny Flat in Prenzlauer Berg,203248,Oliver Andreas,Pankow,Helmholtzplatz,52.54302,13.4172,Entire home/apt,85,3,0,,,1,149,0,
+703286,Friedrichshain/Oskreuz !!,3611755,Natasha,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50779,13.46807,Entire home/apt,86,3,104,2021-11-30,0.94,1,6,11,
+703748,Nice&sunny Apartment with balcony,3614003,France,Neukölln,Neuköllner Mitte/Zentrum,52.46996,13.43379,Entire home/apt,50,6,39,2017-01-26,0.35,1,0,0,
+703900,Bright and big room at Kreuzberg,3614852,Sharon,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48981,13.4216,Private room,40,3,12,2021-11-28,0.11,1,297,2,02/Z/AZ/014195-21
+704098,"Nice, quiet and central room-MITTE",1289581,Guillaume,Mitte,Osloer Straße,52.5521,13.38537,Private room,36,21,131,2020-01-05,1.17,3,199,0,
+704265,Quiet comfortable apartment close to  centre,3605862,Fokko,Tempelhof - Schöneberg,Friedenau,52.46763,13.34373,Private room,35,7,3,2019-05-09,0.06,1,0,0,07/Z/AZ/007344-19
+705910,Big QUIET room-BALCONY-Zen in Mitte,1289581,Guillaume,Mitte,Osloer Straße,52.55061,13.38668,Private room,40,30,68,2018-09-17,0.61,3,230,0,
+706237,Design Apartment Prenzlauer Berg,3629279,Maycon & Christian,Pankow,Prenzlauer Berg Nordwest,52.55474,13.41318,Entire home/apt,105,5,68,2021-11-08,0.72,1,238,10,03/Z/ZA/002541-16
+706700,Nice Apartment in Berlin Mitte,3632455,Rüdiger,Mitte,Brunnenstr. Süd,52.53166,13.38758,Entire home/apt,68,5,1,2015-08-07,0.01,1,0,0,
+714312,Sunny Apartment near subway WIFI,3678837,Oksana Und Mihail,Neukölln,Gropiusstadt,52.43166,13.4549,Entire home/apt,35,21,243,2020-08-07,2.37,1,261,0,08/Z/RA/007625-19
+715728,spacious room in an apartment in berlin mitte,3688179,April,Mitte,Alexanderplatz,52.52907,13.3966,Private room,116,5,18,2018-07-30,0.20,2,363,0,
+721768,bright & spacious in -Neukölln,1413370,Stefanie,Neukölln,Reuterstraße,52.4874,13.42649,Private room,69,1,9,2019-08-05,0.10,1,333,0,
+722871,Bauhaus-style on Prenzlauer Berg,443681,Lasse,Pankow,Prenzlauer Berg Nord,52.55073,13.42311,Entire home/apt,76,7,197,2021-11-11,1.81,1,9,10,03/Z/RA/003616-18
+724306,COSY & BRIGHT 50m2 ARTIST APT_MITTE_JAN 31-APR 22,134583,Elisa,Mitte,Brunnenstr. Süd,52.5301,13.40562,Entire home/apt,42,10,2,2018-04-22,0.03,1,0,0,
+725992,"Friendly, little room wait for you",3755786,Sibylle,Marzahn - Hellersdorf,Biesdorf,52.51511,13.54927,Private room,30,2,3,2021-12-04,0.05,1,328,1,
+726236,Truly Neukoelln (Minimum stay 3 months),1316194,Baerbel,Neukölln,Rixdorf,52.47024,13.445,Entire home/apt,43,92,14,2021-09-05,0.13,4,260,2,
+728865,"Apartment LEO in PBerg, TOP located",3783747,Flaminia,Pankow,Prenzlauer Berg Nordwest,52.54686,13.40964,Entire home/apt,100,60,45,2021-03-15,0.40,1,1,1,
+728981,quiete and central at Kollwitzplatz,3785472,Karsten,Pankow,Prenzlauer Berg Südwest,52.53724,13.41958,Entire home/apt,55,92,41,2020-06-14,0.37,1,260,0,"First name and Last name: Karsten Weber  <br/> Contact address: Walliser Str.19 , 13407, Berlin , Berlin  <br/>Listing address: Wörther Str.14 , 10405, Berlin , Berlin "
+729454,A Private Room In Heart Of Neukölln,3465962,Tina,Neukölln,Reuterstraße,52.49047,13.42885,Private room,38,3,12,2017-12-30,0.11,1,0,0,
+731285,Gorgeous room in Prenzlauer Berg!,3805354,Jay,Pankow,Prenzlauer Berg Südwest,52.53533,13.41739,Private room,40,84,125,2018-12-25,1.13,1,165,0,03/Z/AZ/003758-18
+736966,sunny 100sqm (1067sqft) rooftop apartment,3847191,Liliane,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.4968,13.44751,Entire home/apt,77,5,2,2020-01-02,0.08,1,349,0,
+737374,Refurnished Studio Central Berlin,1933252,Esther,Mitte,Moabit Ost,52.52812,13.34958,Entire home/apt,60,4,245,2021-12-15,2.33,1,192,18,
+738921,"QUIET BR, LIVING, KITCHEN, BATH, PRENZL'BERG/MITTE",3863484,Stefano,Pankow,Prenzlauer Berg Südwest,52.53294,13.4192,Private room,110,3,65,2019-07-06,0.60,1,0,0,
+739363,"""Alt Britz"" - a centrally located metropolis oasis",3897971,Melitta,Neukölln,Britz,52.44787,13.4394,Entire home/apt,65,3,41,2021-11-02,0.40,1,354,6,08/Z/NA/003642-16
+742211,A GREAT PENTHOUSE,3886037,Jeep,Tempelhof - Schöneberg,Schöneberg-Nord,52.49686,13.33922,Entire home/apt,126,3,111,2020-03-15,1.01,1,44,0,07/Z/ZE/005319-18
+743889,Beautiful apartment in Kreuzberg,901140,Lana,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.49932,13.42063,Entire home/apt,121,2,37,2019-08-18,0.34,1,0,0,
+744264,Blücher Boardinghouse Kreuzberg Smart Appart,3900511,Daniele E Patrizia,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49068,13.40485,Entire home/apt,93,2,266,2021-12-03,2.42,5,314,23,"Legal entity name and Legal form: Lad Smart Appart GmbH <br/>Legal representatives or Trade register number: Daniele Cecchetti <br/> Entity address: Inselstrasse 11, 10179, Berlin, Germany <br/>Listing address: inselstrasse 11, 10179, Berlin, Germany"
+749508,Central & Elegant Kreuzberg apart.,3939068,Michael,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49299,13.39633,Entire home/apt,52,90,139,2020-05-11,1.27,3,31,0,
+752358,Simple & Smart Apartment Neukölln,2468015,Reuben And Jekaterina,Neukölln,Rixdorf,52.47916,13.44134,Entire home/apt,36,93,78,2021-05-19,0.72,3,183,2,
+753152,Nice and spacious attic,3316798,Elen,Pankow,Prenzlauer Berg Nordwest,52.54653,13.40217,Entire home/apt,115,5,90,2021-10-23,0.86,1,345,1,BA Pankow 03/Z/A/002731-17 Genehmigungsbescheid vom 16.05.2017
+753246,Charmante Altbau-Zimmer n. Ku'damm,3962141,Katarina,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49803,13.31402,Private room,35,30,166,2020-03-20,1.52,2,358,0,
+753251,Doppelzimmer nahe des Ku`damm´s,3962141,Katarina,Charlottenburg-Wilm.,Düsseldorfer Straße,52.49939,13.31388,Private room,35,5,164,2020-03-15,1.55,2,354,0,
+753525,Charming 2 rooms next to Mauer Park,54283,Marine,Pankow,Prenzlauer Berg Nordwest,52.54851,13.40579,Entire home/apt,70,92,18,2021-09-02,0.17,3,34,3,
+761453,Central-Cozy-Oriental Style Home,4013797,Zsa,Mitte,Moabit Ost,52.53297,13.34904,Private room,45,2,42,2019-10-27,0.39,1,355,0,
+764511,Central Berlin apt,4030461,Mark,Pankow,Prenzlauer Berg Nord,52.54462,13.42768,Entire home/apt,102,4,226,2021-11-14,2.09,1,145,16,
+767461,Spacious 1 Bed Apartment Berlin,2426083,Jo,Neukölln,Reuterstraße,52.49063,13.4296,Entire home/apt,50,1,3,2016-01-08,0.03,1,0,0,
+767840,"Ruhige,helle 2 Zi.-Whg,Kudammnähe",4050148,Hardy,Charlottenburg-Wilm.,Schmargendorf,52.47623,13.29327,Entire home/apt,45,3,5,2016-05-23,0.06,1,0,0,
+768466,"Nice apartment near ""Deutsche Oper""",4054170,Kai,Charlottenburg-Wilm.,Otto-Suhr-Allee,52.51463,13.31208,Entire home/apt,79,4,89,2021-09-29,0.82,1,339,12,04/Z/RA/008512-19
+768616,Over the roofs of Berlin with Lift,4054647,Cornelius,Pankow,Helmholtzplatz,52.54296,13.42575,Entire home/apt,64,3,298,2021-12-05,2.73,1,145,17,03/Z/ZA/001614-16
+769334,Beautiful apartment,2953733,Semra,Reinickendorf,Ost 1,52.57515,13.36888,Entire home/apt,73,14,72,2020-02-12,0.66,3,365,0,12/Z/AZ/002709-20
+770435,Bright Berlin room at Mauerpark,4068736,Rainer & Dieuwke,Pankow,Prenzlauer Berg Nordwest,52.54894,13.40012,Private room,35,2,213,2020-10-10,1.98,1,347,0,03/Z/AZ/003645-18
+772627,"40,5m² Apartment close by Richard Sqare Neukölln",4076626,Andre,Neukölln,Rixdorf,52.4763,13.4415,Entire home/apt,69,5,204,2021-11-30,1.90,1,140,15,"First name and Last name: Anja &amp; André Winzer <br/> Contact address: Hobrechtstr. 67, 12047, Berlin, Deutschland <br/>Listing address: Herrnhuter Weg 8, 12043, Berlin, Deutschland"
+773066,Sunny Kreuzberg Studio by the Water,3088389,Kai,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49487,13.42879,Entire home/apt,65,150,177,2016-04-25,1.61,2,320,0,
+776069,Near Brandenburger Gate/Reichstag,2685171,Özgür,Mitte,Moabit Ost,52.53466,13.35154,Entire home/apt,120,120,0,,,1,365,0,
+776408,Picturesque House in the Southwest of Berlin,4093031,Caroline,Steglitz - Zehlendorf,Zehlendorf  Nord,52.45102,13.23888,Entire home/apt,150,7,1,2020-03-22,0.05,1,0,0,
+777993,TAUTS HOME Hufeisensiedlung Berlin,4102579,Ben,Neukölln,Britz,52.44637,13.44797,Entire home/apt,206,3,2,2016-10-31,0.03,1,303,0,08/Z/ZA/003544-16
+780540,true urban lifestyle/roof apartment,4116607,Alexander,Neukölln,Reuterstraße,52.48286,13.4392,Private room,99,5,0,,,1,0,0,
+781039,Simple & smart in Neukölln 2,2468015,Reuben And Jekaterina,Neukölln,Rixdorf,52.47858,13.44105,Entire home/apt,35,93,66,2021-10-02,0.64,3,212,2,
+783789,In the middle of Mitte-Berlin!,4133039,Sandra,Mitte,Brunnenstr. Süd,52.53248,13.39398,Entire home/apt,85,3,2,2015-01-01,0.02,1,0,0,
+784782,"Private Bedroom w/ TV, Bathroom, Gym, Terrace, BBQ",4137814,Alexander,Mitte,Tiergarten Süd,52.506622,13.346228,Private room,34,3,320,2021-12-16,2.92,1,65,33,
+785159,Apartment Simon-Dach-Kiez - Berlin!,4139479,Claudius,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.51202,13.45571,Entire home/apt,159,3,0,,,1,365,0,
+789018,3 für 2-3,4057507,Uwe,Pankow,Helmholtzplatz,52.54389,13.42163,Entire home/apt,80,4,38,2021-09-25,0.38,2,3,3,03/Z/RA/005603-20
+791747,"Apartment in Kreuzberg, great view",4171324,Urs,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49091,13.39904,Private room,30,1,2,2016-05-18,0.02,1,0,0,
+793067,Beautiful and airy roof-top apartment,3305339,John,Neukölln,Neuköllner Mitte/Zentrum,52.48076,13.42919,Entire home/apt,40,20,1,2014-08-12,0.01,1,1,0,08/Z/RA/011019-21
+794284,Fully equipped flat in great area - with waterbed!,1015808,Nico & Ines,Pankow,Prenzlauer Berg Nordwest,52.5472,13.41028,Entire home/apt,51,2,67,2018-06-03,0.64,1,0,0,
+795924,Cool Location: Kulturbrauerei,2480274,Marfisa,Pankow,Helmholtzplatz,52.54266,13.41643,Entire home/apt,83,22,2,2019-08-31,0.07,2,0,0,
+800903,Lovely 2 room flat;balcony (KaDeWe),3938410,Lisa,Tempelhof - Schöneberg,Schöneberg-Nord,52.49924,13.36247,Entire home/apt,79,3,14,2017-09-26,0.13,1,0,0,
+803960,Fichteperle -♥- Berlin Kreuzberg,4231374,Jeanette,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49167,13.41355,Entire home/apt,48,2,458,2021-08-31,4.33,1,0,2,02/Z/ZA/003807-16
+808174,Charming Downtown Loft in Kreuzberg,4252018,Sofie,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.49769,13.40143,Entire home/apt,47,3,1,2016-02-22,0.01,1,0,0,
+812449,Big Apartment at the Park in Mitte,4271173,Christian,Mitte,Brunnenstr. Süd,52.53501,13.40262,Entire home/apt,82,5,17,2020-07-20,0.16,1,0,0,
+814603,charming apartment Prenzlauer Berg,4280055,Jens,Pankow,Prenzlauer Berg Nordwest,52.55279,13.40926,Entire home/apt,91,5,10,2016-08-26,0.09,1,0,0,
+816485,Big (35 qm) quiet room in the center of Berlin,1452860,Isa,Mitte,Brunnenstr. Süd,52.53694,13.40349,Private room,100,1,28,2018-06-06,0.45,1,0,0,
+816748,Your home in Kreuzkölln Astrid,4290185,Tiziana,Neukölln,Rixdorf,52.48529,13.45049,Entire home/apt,69,3,171,2021-10-13,1.63,2,45,4,08/Z/ZA/003996-16
+817372,"Apartment ""Gardens of the World""",4293269,Holger,Marzahn - Hellersdorf,Hellersdorf-Nord,52.53899,13.58465,Entire home/apt,65,3,24,2021-09-26,0.25,1,147,3,10/Z/ZA/000911-16
+817454,3Room in Best Place Prenzlauer Berg,4293723,Alla,Pankow,Helmholtzplatz,52.54498,13.4156,Entire home/apt,95,2,126,2020-10-07,1.16,2,220,0,
+818757,sunny room with double bed,4300460,Nela,Mitte,Brunnenstr. Süd,52.53342,13.39486,Private room,55,2,2,2016-05-09,0.03,1,0,0,
+819740,Above the roofs of Berlin Neukölln!,4305175,Lio & Ete,Neukölln,Rixdorf,52.47714,13.45189,Entire home/apt,80,3,40,2021-11-28,0.38,1,351,6,
+822091,Newly refurbished 2 Bed Apt. in Top Berlin Area,4316890,Renée,Pankow,Prenzlauer Berg Süd,52.53602,13.43149,Entire home/apt,79,90,131,2019-08-13,1.20,1,364,0,
+823087,Zimmer in Stadtvilla im schönen Berlin Pankow,4321672,Asia,Pankow,Pankow Zentrum,52.57281,13.41468,Private room,500,5,6,2018-09-24,0.06,1,365,0,
+827752,COZY FLAT with a park view,3431730,Martyn,Friedrichshain-Kreuzberg,Karl-Marx-Allee-Nord,52.5206,13.45018,Entire home/apt,78,4,75,2021-11-15,0.73,1,22,7,
+828534,Long Term only. Beautiful and cozy. Best location.,2203358,Gustavo,Mitte,Brunnenstr. Süd,52.53315,13.40181,Entire home/apt,110,30,2,2019-10-02,0.06,1,59,0,
+829241,Beautiful Bohemian Nest hip area,4346302,Katarina,Pankow,Prenzlauer Berg Süd,52.53326,13.43433,Entire home/apt,79,6,35,2021-11-21,0.32,1,346,1,03/Z/RA/003731-18
+829409,bright 2room apt in Kreuzberg,4346815,Judith,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.48799,13.42293,Entire home/apt,72,1,11,2015-09-04,0.12,1,0,0,
+831316,40sm 1-Room Flat Ideal for couple!,4260789,Pigio,Neukölln,Reuterstraße,52.48495,13.43422,Entire home/apt,62,4,22,2020-08-03,0.34,1,44,0,
+831334,Stylish bohemian city-apartement,1186601,Severine,Pankow,Prenzlauer Berg Nordwest,52.55088,13.41152,Entire home/apt,65,4,13,2017-09-04,0.13,1,0,0,
+832389,"Beautiful 25m², 2 bikes, Neukölln",4356102,Franziska,Neukölln,Rixdorf,52.47385,13.45429,Private room,30,3,6,2014-10-13,0.06,2,0,0,
+836938,Stylish  Loft in Prenzlauer Berg,4338631,Marisol,Mitte,Brunnenstr. Süd,52.53631,13.40655,Entire home/apt,84,92,19,2021-12-09,0.18,1,230,1,
+837143,62 qm/2 rooms in marzahn/furnished,4374738,Jan,Marzahn - Hellersdorf,Marzahn-Mitte,52.55544,13.55566,Entire home/apt,50,7,1,2014-09-10,0.01,1,0,0,
+840890,Cosy studio close to Mauerpark,4391035,Danielle,Pankow,Prenzlauer Berg Südwest,52.5394,13.40911,Entire home/apt,67,5,238,2020-10-25,2.19,1,363,0,03/Z/RA/004745-19
+843830,Very nice flat near Prenzlauer Berg,551159,Lauri,Pankow,Pankow Süd,52.5634,13.42553,Entire home/apt,45,60,32,2021-12-11,0.29,1,162,1,03/Z/AF/000420-14
+847396,J.Roth Boutique Apartement Berlin,4423387,Elmar,Tempelhof - Schöneberg,Schöneberg-Nord,52.49536,13.35468,Entire home/apt,90,7,24,2021-11-01,0.24,3,305,3,
+849431,Your home in Kreuzkölln Dora,4290185,Tiziana,Neukölln,Rixdorf,52.485291,13.45049,Entire home/apt,69,3,174,2021-12-01,1.90,2,35,9,08/Z/NA/003995-16
+852169,Wohnen für Exklusive Ansprüche!,913825,Loui,Charlottenburg-Wilm.,Halensee,52.49621,13.29527,Entire home/apt,119,92,13,2021-11-20,0.13,2,291,3,
+854315,"Design apartment ""Stalin Avenue""",4461607,Torsten,Friedrichshain-Kreuzberg,Frankfurter Allee Nord,52.51504,13.4609,Entire home/apt,80,120,44,2020-04-11,0.41,2,45,0,
+856117,Room near Airport Schönefeld,4475104,David,Treptow - Köpenick,Oberschöneweide,52.46483,13.51275,Private room,20,3,9,2020-03-01,0.09,4,122,0,09/Z/AZ/001661-18
+856845,apartment in Kreuzberg.,4480544,Benjamin,Friedrichshain-Kreuzberg,südliche Luisenstadt,52.49705,13.43411,Entire home/apt,100,10,2,2016-10-24,0.02,1,355,0,
+857451,Best Location - the sweetest thing,4484943,Assaf,Charlottenburg-Wilm.,Kantstraße,52.50701,13.31153,Entire home/apt,70,6,12,2015-12-18,0.12,1,0,0,
+857540,"Artsy, Berlin-French Style",4485407,Amelie,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50459,13.45744,Entire home/apt,72,3,26,2018-06-03,0.24,1,1,0,
+865222,Berlin for 1 -3 in a bright room,3566045,Judith,Lichtenberg,Alt-Hohenschönhausen Nord,52.56078,13.49243,Private room,36,2,56,2021-12-13,0.54,3,247,6,11/Z/AZ/002171-21
+865908,View the TV Tower from your Bed,1584766,Frank,Mitte,Alexanderplatz,52.52601,13.40875,Entire home/apt,52,2,137,2021-12-14,1.61,2,294,29,
+866332,For the quite global individualist,4551377,Sabine,Pankow,Blankenfelde/Niederschönhausen,52.58814,13.39598,Private room,39,2,8,2021-10-20,0.08,1,158,2,03/Z/AZ/006556-21
+867196,CITY-PENTHOUSE & MAGNIFICENT VIEW,4446679,Katja,Reinickendorf,MV 1,52.59565,13.35481,Entire home/apt,141,2,14,2015-08-11,0.14,2,0,0,
+867981,"cosy, clean  little private  room near MDC",4569498,Erika,Pankow,Karow,52.62336,13.48683,Private room,24,2,39,2019-03-23,0.38,1,292,0,
+868206,nice room in the center of berlin!,3753844,Josephien,Mitte,Moabit West,52.52242,13.33317,Private room,32,1,33,2021-08-16,0.39,1,141,5,
+869793,stylish apartment in Kreuzberg 36,4583391,Kirsten,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50113,13.43176,Entire home/apt,70,2,347,2021-11-15,3.28,1,193,22,02/Z/ZA/001257-15
+871854,blue Female only room at the Federal Chancellery,2837298,Daniel,Mitte,Moabit Ost,52.52011,13.35889,Private room,46,89,7,2020-12-01,0.07,3,170,0,
+871902,*CHARMING APARTMENT IN CITY CENTER*,4597640,Ludovit,Tempelhof - Schöneberg,Schöneberg-Süd,52.48529,13.36605,Entire home/apt,74,200,1,2013-08-26,0.01,1,364,0,
+871945,Very nice centrally located flat,560812,Silke,Charlottenburg-Wilm.,Kantstraße,52.5086,13.32127,Entire home/apt,69,3,177,2021-11-03,1.69,2,233,7,
+872718,Big Room,3585183,Juliane,Tempelhof - Schöneberg,Schöneberg-Nord,52.49606,13.34942,Private room,45,2,6,2020-09-30,0.06,2,291,0,07/Z/AZ/011095-21
+872925,sunny 5-R Apartment PrenlzlauerBerg,296424,Sören,Pankow,Prenzlauer Berg Süd,52.53384,13.43336,Private room,74,1,96,2021-12-05,0.89,1,362,9,
+876839,Near Alex-Jannowitz Brücke 4R. FE,4631397,Brigitte,Mitte,Alexanderplatz,52.51238,13.41697,Entire home/apt,120,2,253,2021-11-28,2.37,1,317,21,
+877939,Prime location in Neukölln,730791,Andrew,Neukölln,Reuterstraße,52.48561,13.4289,Private room,17,5,5,2017-03-05,0.08,1,0,0,
+878074,Cozy  Design Cinema Flat In Winskiez,1450795,Camilla,Pankow,Prenzlauer Berg Süd,52.53321,13.42556,Entire home/apt,110,10,113,2021-10-18,1.11,1,146,7,03/Z/RA/003471-18
+880130,"Berlin, is a nice City, central, kulturell, fein",4654308,Ute,Tempelhof - Schöneberg,Schöneberg-Süd,52.48851,13.34912,Private room,79,4,30,2021-09-12,0.34,2,341,3,07/Z/RA/0010419-21
+880250,Furnished apartment Corbusier house,4655176,Benedikt,Charlottenburg-Wilm.,Heerstrasse,52.50865,13.24357,Entire home/apt,27,92,13,2021-10-04,0.17,1,165,2,
+883362,"Appartamento Mitte, Berlino, Wifi",4676317,Matteo,Mitte,Wedding Zentrum,52.54249,13.35262,Entire home/apt,71,92,65,2021-06-24,0.63,1,32,1,01/Z/ZA/005196-16
+883847,Cosy Studio *CASA KASIMIR*,4680255,Max,Mitte,Wedding Zentrum,52.54837,13.36184,Entire home/apt,41,100,120,2021-11-30,1.12,1,171,15,
+885925,LOFT- 8 minutes from train station!,4074700,Philipp,Mitte,Wedding Zentrum,52.5474,13.37123,Entire home/apt,750,1,38,2017-11-20,0.36,1,364,0,
+889901,AT HOME IN THE FOREIGN,4721756,Silvia,Charlottenburg-Wilm.,Westend,52.51576,13.26434,Entire home/apt,40,62,34,2021-04-01,0.32,1,232,1,
+893313,A couch during the Berlinale,4751044,Anne,Pankow,Helmholtzplatz,52.54757,13.4145,Private room,45,1,16,2021-10-31,0.20,1,363,3,
+894475,apartment in the heart of Kreuzberg,1175730,Martin,Friedrichshain-Kreuzberg,nördliche Luisenstadt,52.50384,13.41913,Entire home/apt,85,10,2,2014-09-07,0.02,1,250,0,
+897910,Great Kreuzberg location,4790602,Rebecca,Friedrichshain-Kreuzberg,Tempelhofer Vorstadt,52.49521,13.39981,Private room,40,3,82,2020-03-07,0.78,1,5,0,
+899264,The Berlin stork's nest,1332388,Rosita,Tempelhof - Schöneberg,Schöneberg-Süd,52.48356,13.35478,Private room,51,10,3,2015-05-27,0.03,2,134,0,07/Z/AZ/005743-18
+899265,A View of Trees in Friedrichshain,4800774,N. Maria,Friedrichshain-Kreuzberg,Frankfurter Allee Süd FK,52.50331,13.4566,Private room,29,3,14,2021-09-22,0.19,1,257,4,
+899729,Spacious design apt in Mitte (2bdr),447160,Leonard,Mitte,Alexanderplatz,52.52656,13.40708,Entire home/apt,130,2,85,2020-03-02,0.81,1,22,0,01/Z/RA/008420-18
+899970,MITTE ROOM (Art District),1563406,Martin,Mitte,Alexanderplatz,52.52798,13.39096,Private room,56,1,15,2020-10-17,0.20,2,365,0,
+901837,Prenzlauer Berg Exclusive Apartment,4820099,Marga,Pankow,Prenzlauer Berg Ost,52.53741,13.45873,Entire home/apt,141,4,231,2021-11-29,2.18,1,297,29,
+906460,W15 1.1 Apartment 4 Friends +1,4852040,Punktie,Friedrichshain-Kreuzberg,Südliche Friedrichstadt,52.50219,13.38939,Entire home/apt,148,3,31,2021-08-05,0.31,4,0,1,"Legal entity name and Legal form: A &amp; B Apartment &amp; Boardinghouse Berlin GmbH <br/>Legal representatives or Trade register number: 119760 B <br/> Entity address: Glogauer Straße 2, 10999, Berlin, Deutschland <br/>Listing address: Wilhelmstraße 15, 10963 , Berlin, Deutschland"
