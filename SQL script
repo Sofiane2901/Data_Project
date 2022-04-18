@@ -1,0 +1,74 @@
+SELECT * FROM mytable;
+
+
+
+-- delete unnecessary coloumn
+
+ALTER TABLE mytable DROP license;
+
+ALTER TABLE mytable DROP host_id;
+
+ALTER TABLE mytable DROP host_name;
+
+ALTER TABLE mytable DROP name;
+
+ALTER TABLE mytable DROP last_review;
+
+
+ALTER TABLE mytable DROP reviews_per_month;
+ALTER TABLE mytable DROP longitude;
+ALTER TABLE mytable DROP latitude;
+ALTER TABLE mytable DROP number_of_reviews_ltm;
+
+
+-- rename some coloumn name
+
+ALTER TABLE mytable RENAME COLUMN neighbourhood_group TO the_place;
+
+ALTER TABLE mytable RENAME COLUMN neighbourhood TO the_adress;
+
+
+-- looking the price vs the places
+
+SELECT the_place,price FROM mytable;
+
+-- looking a place to stay minimum 10 days 
+
+SELECT * FROM mytable
+WHERE minimum_nights>10
+
+-- looking a place to stay between 10 and 20 days
+
+SELECT * FROM mytable
+WHERE minimum_nights BETWEEN 10 AND 20
+
+
+-- looking the price vs the places and room type, ordered by the price and place
+
+SELECT the_place,price,room_type FROM mytable
+order by 1,2;
+
+-- looking the price vs the places and room type, ordered by the price and place ,where the room is private room
+
+SELECT the_place,price,room_type FROM mytable
+WHERE room_type = "Private room"
+order by 1,2;
+
+
+--looking for the cheapest room in Berlin
+
+SELECT the_place,Min(price) FROM mytable
+WHERE room_type = "Entire home/apt"
+
+
+
+--looking for the average price of each place in Berlin
+
+
+SELECT the_place,AVG(price) as average_price,room_type FROM mytable
+GROUP BY the_place,room_type
+
+
+
+
+
