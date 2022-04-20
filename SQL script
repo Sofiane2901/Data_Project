@@ -59,6 +59,7 @@ order by 1,2;
 
 SELECT the_place,Min(price) FROM mytable
 WHERE room_type = "Entire home/apt"
+GROUP BY the_place
 
 
 
